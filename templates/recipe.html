@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ mon.ten }} — Công thức | SmartCook AI</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="nav">
+  <a class="brand" href="/"><b class="mark">✳</b><span>SmartCook <strong>AI</strong><small>Ăn ngon mỗi ngày</small></span></a>
+  <nav><a href="/">Trang chủ</a><a href="/nguyen-lieu">Gợi ý món ăn</a><a href="/cong-thuc" class="active">Công thức</a><a href="/phu-bep">👩‍🍳 Phụ Bếp AI</a></nav>
+  <a class="navbtn" href="/phu-bep">Mở Phụ Bếp AI ↗</a>
+</header>
+<main class="detail recipe-detail-page">
+  <a class="back" href="/cong-thuc">← Quay lại danh sách công thức</a>
+  <section class="detailhero">
+    <div class="detailart">🍲</div>
+    <div>
+      <label>{{ mon.loai }} · CÔNG THỨC CHI TIẾT</label>
+      <h1>{{ mon.ten }}</h1>
+      <p>{{ mon.mo_ta }}</p>
+      <div class="stats"><span>◷ {{ mon.thoi_gian }} phút</span><span>Độ khó: {{ mon.do_kho }}</span><span>{{ mon.nguyen_lieu|length }} nguyên liệu</span><span>Khẩu phần gốc: 2 người</span></div>
+      <a class="btn" href="/phu-bep">👩‍🍳 Điều chỉnh cho nhiều người ăn →</a>
+    </div>
+  </section>
+
+  <div class="recipe-two-columns">
+    <!-- Cột trái: công thức và trình tự nấu theo từng bước. -->
+    <section class="panel cooking-panel">
+      <div class="panel-kicker">01 · CÔNG THỨC NẤU</div>
+      <h2>Cách nấu {{ mon.ten }}</h2>
+      <p class="panel-intro">Thực hiện lần lượt từng bước. Thời gian và gia vị có thể điều chỉnh theo bếp và khẩu vị gia đình.</p>
+      <div class="step-list">
+        {% for buoc in mon.cach_nau %}
+        <article class="step-card">
+          <div class="step-number">{{ "%02d"|format(loop.index) }}</div>
+          <div class="step-body"><h3>Bước {{ loop.index }}</h3><p>{{ buoc }}</p><span class="step-tip">{{ loop.index }} / {{ mon.cach_nau|length }} bước</span></div>
+        </article>
+        {% endfor %}
+      </div>
+      <div class="cook-note"><strong>🍽️ Hoàn thiện món ăn</strong><p>Nếm lại trước khi tắt bếp, kiểm tra độ chín của nguyên liệu và trình bày khi món còn nóng. Điều chỉnh gia vị từ từ, không đổ toàn bộ gia vị cùng lúc.</p></div>
+    </section>
+
+    <!-- Cột phải: định lượng và hướng dẫn sơ chế riêng cho từng nguyên liệu. -->
+    <section class="panel prep-panel">
+      <div class="panel-kicker">02 · BẢNG SƠ CHẾ NGUYÊN LIỆU</div>
+      <h2>Chuẩn bị trước khi nấu</h2>
+      <p class="panel-intro">Định lượng tham khảo cho 2 người. Đánh dấu từng nguyên liệu sau khi đã chuẩn bị xong.</p>
+      <div class="prep-list">
+        {% for ten in mon.nguyen_lieu %}
+        {% set dinh_luong = mon.dinh_luong_2_nguoi.get(ten, {}) %}
+        <article class="prep-item">
+          <label class="prep-check"><input type="checkbox"><span class="prep-content">
+            <span class="prep-name">{{ ten }}</span>
+            <strong class="prep-amount">{% if dinh_luong %}{{ dinh_luong.so_luong }} {{ dinh_luong.don_vi }}{% else %}Theo khẩu vị{% endif %}</strong>
+            <small>{{ mon.so_che.get(ten, 'Kiểm tra, làm sạch và chuẩn bị theo yêu cầu của công thức.') }}</small>
+          </span></label>
+        </article>
+        {% endfor %}
+      </div>
+      <div class="cook-note"><strong>🧼 Lưu ý sơ chế an toàn</strong><p>Dùng thớt và dao riêng cho thực phẩm sống và thực phẩm ăn liền. Rửa tay, vệ sinh bề mặt bếp sau khi xử lý thịt, cá, hải sản sống.</p></div>
+    </section>
+  </div>
+
+  <section class="panel method-panel">
+    <div class="panel-kicker">03 · ĐẶC TRƯNG MÓN ĂN DÙNG CHO HỆ GỢI Ý</div>
+    <h2>Thông tin phân tích của SmartCook AI</h2>
+    <div class="method-tags"><span>Loại món: {{ mon.loai }}</span><span>Thời gian: {{ mon.thoi_gian }} phút</span>{% for cach in mon.cach_che_bien %}<span>Cách chế biến: {{ cach }}</span>{% endfor %}</div>
+    <p class="panel-intro">Các đặc trưng này được dùng bởi thuật toán Content-Based Filtering để so sánh công thức đang xem với những món khác trong kho dữ liệu.</p>
+  </section>
+
+  <section class="related-section">
+    <div class="sectionhead"><div><label>GỢI Ý TỪ SMARTCOOK AI</label><h2>Món ăn tương tự</h2><p>Được xếp hạng dựa trên nguyên liệu, loại món, thời gian nấu và cách chế biến.</p></div></div>
+    <div class="grid related-grid">
+      {% for mon_goi_y in mon_tuong_tu %}
+      <article class="card">
+        <a class="food food{{ loop.index0 % 6 }}" href="/cong-thuc/{{ mon_goi_y.id }}"><span>🍲</span><small>{{ mon_goi_y.loai }}</small><i>↗</i></a>
+        <div class="cardbody"><div class="meta">◷ {{ mon_goi_y.thoi_gian }} phút · Tương đồng {{ mon_goi_y.diem_tuong_dong }}%</div><h3><a href="/cong-thuc/{{ mon_goi_y.id }}">{{ mon_goi_y.ten }}</a></h3><p>{{ mon_goi_y.mo_ta }}</p><div class="cardfoot"><span>{{ mon_goi_y.nguyen_lieu|length }} nguyên liệu</span><a href="/cong-thuc/{{ mon_goi_y.id }}">Xem công thức →</a></div></div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+</main>
+<footer class="footer"><span>✳ SmartCook AI</span><span>Dự án Trí tuệ nhân tạo ứng dụng</span></footer>
+<script>
+// Đánh dấu nguyên liệu đã sơ chế xong và đổi trạng thái trực quan.
+document.querySelectorAll('.prep-check input').forEach(function (input) {
+  input.addEventListener('change', function () {
+    input.closest('.prep-item').classList.toggle('is-done', input.checked);
+  });
+});
+</script>
+</body></html>

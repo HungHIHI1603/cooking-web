@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Phụ Bếp AI — SmartCook</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<style>
+.assistant-wrap{max-width:980px;margin:45px auto;padding:0 22px}.assistant-hero{background:#fff8ee;border-radius:24px;padding:30px;margin-bottom:24px}.assistant-hero h1{font-size:clamp(30px,5vw,46px);margin:10px 0}.assistant-form,.assistant-result{background:white;border:1px solid #eadfd1;border-radius:20px;padding:26px;margin:20px 0}.assistant-form label{display:block;font-weight:700;margin:14px 0 7px}.assistant-form select,.assistant-form input{width:100%;padding:13px;border:1px solid #d8d0c5;border-radius:10px;font:inherit}.assistant-form button{margin-top:20px;border:0;cursor:pointer}.assistant-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.amount-list{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:0;list-style:none}.amount-list li{background:#fff8ee;border-radius:10px;padding:12px}.assistant-result h2{margin-top:8px}.assistant-note{background:#eef8ef;padding:14px;border-radius:12px;line-height:1.6}.assistant-steps li{margin:10px 0;line-height:1.65}.error-msg{color:#b42318}.assistant-nav{display:flex;justify-content:space-between;align-items:center;padding:18px 5%;background:white}.assistant-nav a{color:inherit;text-decoration:none;font-weight:700}@media(max-width:650px){.assistant-grid{grid-template-columns:1fr}.amount-list{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header class="nav"><a class="brand" href="/"><b class="mark">✳</b><span>SmartCook <strong>AI</strong><small>Ăn ngon mỗi ngày</small></span></a><nav><a href="/">Trang chủ</a><a href="/nguyen-lieu">Gợi ý món ăn</a><a href="/cong-thuc">Công thức</a><a href="/phu-bep">👩‍🍳 Phụ Bếp AI</a></nav><a class="navbtn" href="/phu-bep">Mở Phụ Bếp AI ↗</a></header>
+<main class="assistant-wrap">
+<section class="assistant-hero"><label>✦ TRỢ LÝ NẤU ĂN CỦA BẠN</label><h1>Phụ Bếp AI 👩‍🍳</h1><p>Chọn món bạn muốn nấu, cho biết nhà có bao nhiêu người ăn. Phụ Bếp sẽ quy đổi lượng nguyên liệu và đưa các bước nấu ra ngay cho bạn.</p></section>
+<form class="assistant-form" method="post">
+<h2>Hôm nay mình nấu món gì?</h2>
+<div class="assistant-grid"><div><label for="ma_mon">Chọn món ăn</label><select id="ma_mon" name="ma_mon" required>{% for mon in mon_an %}<option value="{{ mon.id }}" {% if ke_hoach and ke_hoach.mon.id == mon.id %}selected{% endif %}>{{ mon.ten }}</option>{% endfor %}</select></div>
+<div><label for="so_nguoi">Số người ăn (1–50)</label><input id="so_nguoi" name="so_nguoi" type="number" min="1" max="50" value="{{ ke_hoach.so_nguoi if ke_hoach else 2 }}" required></div></div>
+<button class="btn" type="submit">Tính nguyên liệu và hướng dẫn nấu →</button>
+{% if loi %}<p class="error-msg">{{ loi }}</p>{% endif %}
+</form>
+{% if ke_hoach %}
+<section class="assistant-result">
+<label>KẾ HOẠCH NẤU ĂN</label><h2>{{ ke_hoach.mon.ten }} cho {{ ke_hoach.so_nguoi }} người</h2>
+<p>{{ ke_hoach.mon.mo_ta }}</p><p>⏱ Thời gian tham khảo: {{ ke_hoach.mon.thoi_gian }} phút · Độ khó: {{ ke_hoach.mon.do_kho }}</p>
+<h3>🧺 Nguyên liệu đã quy đổi</h3><ul class="amount-list">{% for nl in ke_hoach.nguyen_lieu %}<li><strong>{{ nl.ten }}</strong><br>{{ nl.so_luong }} {{ nl.don_vi }}</li>{% endfor %}</ul>
+<div class="assistant-note">💡 <strong>Lời nhắc của Phụ Bếp:</strong> {{ ke_hoach.ghi_chu }} Công thức gốc trong dữ liệu hiện tại chưa có định lượng đã được kiểm chứng; các số lượng này là ước tính tham khảo cho hai người rồi quy đổi theo số người ăn. Hãy nếm và điều chỉnh gia vị trong lúc nấu.</div>
+<h3>👩‍🍳 Các bước thực hiện</h3><ol class="assistant-steps">{% for buoc in ke_hoach.mon.cach_nau %}<li>{{ buoc }}</li>{% endfor %}</ol>
+<button class="btn" type="button" onclick="window.print()">In kế hoạch nấu ăn 🖨</button>
+</section>
+{% endif %}
+</main>
+<footer style="text-align:center;padding:30px">✳ SmartCook AI · Phụ Bếp hỗ trợ bạn nấu ăn mỗi ngày</footer>
+</body></html>

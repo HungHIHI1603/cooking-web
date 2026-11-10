@@ -1,0 +1,4962 @@
+[
+  {
+    "id": 1,
+    "ten": "Phở bò truyền thống",
+    "loai": "Món nước",
+    "thoi_gian": 120,
+    "do_kho": "Khó",
+    "mo_ta": "Nước dùng thơm gừng nướng, quế hồi, ăn cùng bánh phở và thịt bò.",
+    "nguyen_lieu": [
+      "bánh phở",
+      "thịt bò",
+      "xương bò",
+      "hành tây",
+      "gừng",
+      "quế",
+      "hoa hồi",
+      "hành lá"
+    ],
+    "cach_nau": [
+      "Chần xương bò 5 phút, rửa sạch để nước dùng trong.",
+      "Nướng gừng và hành tây; rang nhẹ quế, hoa hồi cho thơm.",
+      "Ninh xương cùng gừng, hành tây và gia vị khoảng 2–3 giờ, hớt bọt thường xuyên.",
+      "Nêm muối, nước mắm và chút đường phèn vừa ăn.",
+      "Chần bánh phở, xếp thịt bò thái mỏng, chan nước dùng sôi và thêm hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh phở": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "thịt bò": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "xương bò": {
+        "so_luong": 500,
+        "don_vi": "g"
+      },
+      "hành tây": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "gừng": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "quế": {
+        "so_luong": 1,
+        "don_vi": "thanh nhỏ"
+      },
+      "hoa hồi": {
+        "so_luong": 3,
+        "don_vi": "cánh"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "ninh",
+      "chần",
+      "nướng"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh phở": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "xương bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "quế": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hoa hồi": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 2,
+    "ten": "Bún bò Huế",
+    "loai": "Món nước",
+    "thoi_gian": 150,
+    "do_kho": "Khó",
+    "mo_ta": "Bún đậm đà với sả, mắm ruốc và vị cay thơm miền Trung.",
+    "nguyen_lieu": [
+      "bún bò",
+      "thịt bò",
+      "giò heo",
+      "sả",
+      "mắm ruốc",
+      "ớt",
+      "hành tím",
+      "rau sống"
+    ],
+    "cach_nau": [
+      "Chần thịt bò và giò heo, rửa sạch.",
+      "Ninh thịt với sả đập dập đến khi mềm; vớt thịt ra khi chín.",
+      "Hòa mắm ruốc với nước, để lắng rồi lọc phần nước trong vào nồi.",
+      "Phi thơm hành tím với dầu màu điều, thêm vào nước dùng.",
+      "Nêm vừa ăn, cắt thịt, chan lên bún và dùng cùng rau sống."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún bò": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "thịt bò": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "giò heo": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 3,
+        "don_vi": "cây"
+      },
+      "mắm ruốc": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "ớt": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "hành tím": {
+        "so_luong": 3,
+        "don_vi": "củ"
+      },
+      "rau sống": {
+        "so_luong": 200,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "ninh",
+      "chần",
+      "luộc",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "giò heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "mắm ruốc": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 3,
+    "ten": "Hủ tiếu Nam Vang",
+    "loai": "Món nước",
+    "thoi_gian": 75,
+    "do_kho": "Trung bình",
+    "mo_ta": "Nước dùng thanh ngọt với tôm, thịt heo và trứng cút.",
+    "nguyen_lieu": [
+      "hủ tiếu",
+      "tôm",
+      "thịt heo",
+      "xương heo",
+      "trứng cút",
+      "hẹ",
+      "giá đỗ",
+      "tỏi"
+    ],
+    "cach_nau": [
+      "Chần xương heo rồi ninh với nước khoảng 45–60 phút, thường xuyên hớt bọt.",
+      "Luộc trứng cút, bóc vỏ; sơ chế tôm và thịt heo.",
+      "Luộc tôm và thịt đến khi chín, thái miếng vừa ăn.",
+      "Nêm nước dùng với muối, nước mắm và chút đường.",
+      "Trụng hủ tiếu, xếp các nguyên liệu vào tô, chan nước dùng và thêm hẹ."
+    ],
+    "dinh_luong_2_nguoi": {
+      "hủ tiếu": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "thịt heo": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "xương heo": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "trứng cút": {
+        "so_luong": 8,
+        "don_vi": "quả"
+      },
+      "hẹ": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "giá đỗ": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      }
+    },
+    "cach_che_bien": [
+      "ninh",
+      "chần",
+      "luộc",
+      "trụng"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "hủ tiếu": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "thịt heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "xương heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "trứng cút": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "hẹ": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "giá đỗ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều."
+    }
+  },
+  {
+    "id": 4,
+    "ten": "Cơm chiên trứng",
+    "loai": "Món cơm",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Cơm chiên tơi hạt, thơm trứng và hành lá, phù hợp bữa ăn nhanh.",
+    "nguyen_lieu": [
+      "cơm nguội",
+      "trứng",
+      "hành lá",
+      "tỏi",
+      "nước mắm",
+      "dầu ăn"
+    ],
+    "cach_nau": [
+      "Bóp nhẹ cơm nguội cho hạt rời nhau.",
+      "Đập trứng vào bát, thêm chút nước mắm rồi đánh đều.",
+      "Phi thơm tỏi băm trong chảo nóng.",
+      "Cho trứng vào đảo nhanh, thêm cơm và đảo đều trên lửa vừa đến lớn.",
+      "Nêm lại vừa ăn, thêm hành lá và đảo thêm 30 giây."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cơm nguội": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "trứng": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "dầu ăn": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "chiên",
+      "đảo"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cơm nguội": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 5,
+    "ten": "Trứng chiên hành",
+    "loai": "Món nhanh",
+    "thoi_gian": 10,
+    "do_kho": "Dễ",
+    "mo_ta": "Món ăn đơn giản, tiết kiệm, ăn cùng cơm nóng hoặc bánh mì.",
+    "nguyen_lieu": [
+      "trứng",
+      "hành lá",
+      "nước mắm",
+      "tiêu",
+      "dầu ăn"
+    ],
+    "cach_nau": [
+      "Rửa sạch hành lá và thái nhỏ.",
+      "Đập trứng vào bát, thêm hành lá, nước mắm, tiêu rồi đánh đều.",
+      "Làm nóng chảo với lượng dầu vừa đủ.",
+      "Đổ trứng vào, chiên lửa vừa đến khi mặt dưới vàng.",
+      "Lật trứng, chiên mặt còn lại đến khi chín hoàn toàn."
+    ],
+    "dinh_luong_2_nguoi": {
+      "trứng": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "dầu ăn": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 6,
+    "ten": "Gà xào sả ớt",
+    "loai": "Món mặn",
+    "thoi_gian": 30,
+    "do_kho": "Trung bình",
+    "mo_ta": "Thịt gà thơm sả, cay nhẹ, rất hợp ăn cùng cơm nóng.",
+    "nguyen_lieu": [
+      "thịt gà",
+      "sả",
+      "ớt",
+      "tỏi",
+      "hành tím",
+      "nước mắm",
+      "đường"
+    ],
+    "cach_nau": [
+      "Rửa gà, để ráo và chặt miếng vừa ăn.",
+      "Ướp gà với nước mắm, đường, tiêu và sả băm trong 15 phút.",
+      "Băm sả, tỏi, hành tím; thái ớt.",
+      "Phi thơm sả, tỏi và hành tím.",
+      "Cho gà vào xào săn, thêm ít nước và nấu đến khi gà chín hoàn toàn.",
+      "Nêm lại, thêm ớt và đảo thêm 1–2 phút."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt gà": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 3,
+        "don_vi": "cây"
+      },
+      "ớt": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "hành tím": {
+        "so_luong": 3,
+        "don_vi": "củ"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 7,
+    "ten": "Rau muống xào tỏi",
+    "loai": "Món rau",
+    "thoi_gian": 12,
+    "do_kho": "Dễ",
+    "mo_ta": "Rau muống xanh giòn, thơm tỏi, quen thuộc trong bữa cơm Việt.",
+    "nguyen_lieu": [
+      "rau muống",
+      "tỏi",
+      "muối",
+      "dầu ăn"
+    ],
+    "cach_nau": [
+      "Nhặt rau, rửa sạch nhiều lần và để ráo.",
+      "Băm tỏi, làm nóng chảo với dầu.",
+      "Phi tỏi đến khi thơm, không để cháy.",
+      "Cho rau vào xào nhanh trên lửa lớn, nêm muối vừa ăn.",
+      "Đảo đến khi rau chín nhưng vẫn giòn, dùng ngay."
+    ],
+    "dinh_luong_2_nguoi": {
+      "rau muống": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "dầu ăn": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "rau muống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 8,
+    "ten": "Đậu hũ sốt cà chua",
+    "loai": "Món chay",
+    "thoi_gian": 20,
+    "do_kho": "Dễ",
+    "mo_ta": "Đậu hũ mềm thấm sốt cà chua chua ngọt, dễ nấu và tiết kiệm.",
+    "nguyen_lieu": [
+      "đậu hũ",
+      "cà chua",
+      "hành lá",
+      "tỏi",
+      "muối",
+      "đường"
+    ],
+    "cach_nau": [
+      "Cắt đậu hũ thành miếng vừa ăn, có thể áp chảo sơ.",
+      "Rửa cà chua, thái hạt lựu; băm tỏi và thái hành lá.",
+      "Phi thơm tỏi, cho cà chua vào xào đến khi mềm.",
+      "Thêm chút nước, muối và đường, khuấy thành sốt.",
+      "Cho đậu hũ vào rim nhỏ lửa 5–7 phút rồi rắc hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu hũ": {
+        "so_luong": 3,
+        "don_vi": "miếng"
+      },
+      "cà chua": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "sốt",
+      "chiên",
+      "rim"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu hũ": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 9,
+    "ten": "Mì xào bò",
+    "loai": "Món nhanh",
+    "thoi_gian": 25,
+    "do_kho": "Trung bình",
+    "mo_ta": "Mì dai, thịt bò mềm và rau củ giòn cho bữa ăn nhanh gọn.",
+    "nguyen_lieu": [
+      "mì trứng",
+      "thịt bò",
+      "cải thìa",
+      "cà rốt",
+      "tỏi",
+      "nước tương"
+    ],
+    "cach_nau": [
+      "Thái bò mỏng, ướp với nước tương và tiêu 10 phút.",
+      "Rửa cải thìa, thái cà rốt sợi và băm tỏi.",
+      "Trụng mì theo hướng dẫn, xả nhanh và để ráo.",
+      "Phi tỏi, xào bò nhanh đến khi vừa chín tới rồi trút ra.",
+      "Xào rau củ, cho mì và bò vào, nêm nước tương rồi đảo đều."
+    ],
+    "dinh_luong_2_nguoi": {
+      "mì trứng": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "thịt bò": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "cải thìa": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "đảo"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "mì trứng": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "cải thìa": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 10,
+    "ten": "Canh chua cá",
+    "loai": "Món canh",
+    "thoi_gian": 35,
+    "do_kho": "Trung bình",
+    "mo_ta": "Canh chua thanh mát với cá, cà chua, thơm và rau thơm.",
+    "nguyen_lieu": [
+      "cá",
+      "cà chua",
+      "thơm",
+      "me",
+      "đậu bắp",
+      "giá đỗ",
+      "rau om",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Làm sạch cá, cắt khúc; thái cà chua, thơm và đậu bắp.",
+      "Dầm me với nước nóng, lọc lấy nước cốt.",
+      "Đun nước, cho nước me, cà chua và thơm vào.",
+      "Cho cá vào nấu chín, hạn chế khuấy để cá không nát.",
+      "Thêm đậu bắp và giá đỗ, nêm chua ngọt vừa ăn.",
+      "Tắt bếp, thêm rau om và ngò gai nếu có."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cá": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "cà chua": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "thơm": {
+        "so_luong": 0.5,
+        "don_vi": "trái"
+      },
+      "me": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "đậu bắp": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "giá đỗ": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "rau om": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "nấu canh",
+      "đun sôi"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cá": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "thơm": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "me": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đậu bắp": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "giá đỗ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau om": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 11,
+    "ten": "Thịt kho trứng",
+    "loai": "Món mặn",
+    "thoi_gian": 90,
+    "do_kho": "Trung bình",
+    "mo_ta": "Thịt ba chỉ mềm và trứng thấm nước kho mặn ngọt.",
+    "nguyen_lieu": [
+      "thịt ba chỉ",
+      "trứng vịt",
+      "nước dừa",
+      "nước mắm",
+      "đường",
+      "hành tím",
+      "tỏi"
+    ],
+    "cach_nau": [
+      "Luộc trứng chín, bóc vỏ; thái thịt thành miếng vừa ăn.",
+      "Ướp thịt với nước mắm, hành tím, tỏi và chút đường 20 phút.",
+      "Thắng đường đến màu cánh gián, cho thịt vào đảo đều.",
+      "Đổ nước dừa gần ngập thịt, đun sôi rồi hạ lửa nhỏ.",
+      "Kho 45–60 phút đến khi thịt mềm, cho trứng vào kho thêm 15 phút."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt ba chỉ": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "trứng vịt": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "nước dừa": {
+        "so_luong": 400,
+        "don_vi": "ml"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành tím": {
+        "so_luong": 3,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      }
+    },
+    "cach_che_bien": [
+      "kho",
+      "luộc"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt ba chỉ": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "trứng vịt": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "nước dừa": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều."
+    }
+  },
+  {
+    "id": 12,
+    "ten": "Cá kho tộ",
+    "loai": "Món mặn",
+    "thoi_gian": 45,
+    "do_kho": "Trung bình",
+    "mo_ta": "Cá kho đậm đà với tiêu và nước mắm, ăn ngon cùng cơm nóng.",
+    "nguyen_lieu": [
+      "cá basa",
+      "nước mắm",
+      "đường",
+      "tiêu",
+      "hành tím",
+      "tỏi",
+      "ớt"
+    ],
+    "cach_nau": [
+      "Rửa cá, để ráo và ướp nước mắm, tiêu, hành tím, tỏi 15 phút.",
+      "Đun đường đến màu cánh gián, thêm chút nước nóng cẩn thận.",
+      "Xếp cá vào nồi, thêm nước màu và nước nóng gần ngang mặt cá.",
+      "Đun sôi rồi hạ lửa nhỏ, kho liu riu 25–30 phút.",
+      "Nêm lại, thêm tiêu và ớt nếu thích, kho đến khi nước sánh."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cá basa": {
+        "so_luong": 500,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành tím": {
+        "so_luong": 3,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "ớt": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      }
+    },
+    "cach_che_bien": [
+      "kho"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cá basa": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều."
+    }
+  },
+  {
+    "id": 13,
+    "ten": "Bánh xèo miền Tây",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 40,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bánh vàng giòn, nhân tôm thịt và giá đỗ, cuốn rau sống.",
+    "nguyen_lieu": [
+      "bột bánh xèo",
+      "tôm",
+      "thịt heo",
+      "giá đỗ",
+      "nước cốt dừa",
+      "hành lá",
+      "rau sống"
+    ],
+    "cach_nau": [
+      "Pha bột theo hướng dẫn trên bao bì, thêm nước cốt dừa và hành lá.",
+      "Rửa tôm, thái thịt mỏng và xào sơ nhân.",
+      "Làm nóng chảo, thêm dầu rồi cho thịt và tôm vào.",
+      "Đổ lớp bột mỏng, thêm giá đỗ và đậy nắp vài phút.",
+      "Chiên đến khi viền bánh vàng giòn, gập đôi và lấy ra.",
+      "Dùng nóng với rau sống và nước mắm chua ngọt."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bột bánh xèo": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "thịt heo": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "giá đỗ": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "nước cốt dừa": {
+        "so_luong": 200,
+        "don_vi": "ml"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "rau sống": {
+        "so_luong": 200,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "chiên",
+      "đổ bánh"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bột bánh xèo": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "thịt heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "giá đỗ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước cốt dừa": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 14,
+    "ten": "Gỏi cuốn tôm thịt",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 35,
+    "do_kho": "Trung bình",
+    "mo_ta": "Gỏi cuốn tươi mát với tôm, thịt, bún và rau sống.",
+    "nguyen_lieu": [
+      "bánh tráng",
+      "tôm",
+      "thịt heo",
+      "bún",
+      "xà lách",
+      "hẹ",
+      "rau thơm"
+    ],
+    "cach_nau": [
+      "Luộc thịt heo chín, để nguội và thái lát mỏng.",
+      "Luộc tôm đến khi chín, bóc vỏ và bỏ chỉ lưng.",
+      "Rửa rau sống, chuẩn bị bún và hẹ.",
+      "Làm mềm bánh tráng, đặt rau, bún, thịt và tôm lên trên.",
+      "Gấp hai mép bánh rồi cuốn chặt tay.",
+      "Dùng ngay với nước chấm yêu thích."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh tráng": {
+        "so_luong": 10,
+        "don_vi": "cái"
+      },
+      "tôm": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "thịt heo": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "bún": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "xà lách": {
+        "so_luong": 1,
+        "don_vi": "cây"
+      },
+      "hẹ": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "rau thơm": {
+        "so_luong": 50,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "cuốn",
+      "luộc"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh tráng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "thịt heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "xà lách": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hẹ": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "rau thơm": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 15,
+    "ten": "Cháo gà",
+    "loai": "Món nước",
+    "thoi_gian": 60,
+    "do_kho": "Dễ",
+    "mo_ta": "Cháo gà nóng mềm, thơm gừng và hành, phù hợp bữa sáng.",
+    "nguyen_lieu": [
+      "thịt gà",
+      "gạo",
+      "gừng",
+      "hành lá",
+      "hành phi",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Vo gạo, có thể rang sơ để cháo thơm hơn.",
+      "Luộc gà với gừng và chút muối đến khi chín, vớt ra xé nhỏ.",
+      "Cho gạo vào nước luộc gà, nấu nhỏ lửa và khuấy định kỳ.",
+      "Nấu đến khi gạo nở mềm, thêm nước nóng nếu cháo quá đặc.",
+      "Nêm vừa ăn, cho gà xé vào nấu thêm vài phút.",
+      "Múc ra bát, rắc hành lá, hành phi và tiêu."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt gà": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "gạo": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "gừng": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "hành phi": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ninh",
+      "luộc"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "gạo": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hành phi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 16,
+    "ten": "Bò lúc lắc",
+    "loai": "Món mặn",
+    "thoi_gian": 30,
+    "do_kho": "Trung bình",
+    "mo_ta": "Thịt bò áp chảo cùng hành tây và ớt chuông, dùng với cơm.",
+    "nguyen_lieu": [
+      "thịt bò",
+      "hành tây",
+      "ớt chuông",
+      "tỏi",
+      "nước tương",
+      "dầu hào"
+    ],
+    "cach_nau": [
+      "Thái bò thành khối vuông, ướp nước tương, dầu hào và tiêu 15 phút.",
+      "Thái hành tây và ớt chuông thành miếng vừa ăn.",
+      "Làm nóng chảo, áp chảo bò theo từng mẻ để thịt không ra nhiều nước.",
+      "Khi bò gần đạt độ chín mong muốn, cho hành tây và ớt chuông vào.",
+      "Nêm lại vừa ăn, dùng nóng với cơm hoặc khoai tây."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt bò": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "hành tây": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "ớt chuông": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "dầu hào": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "áp chảo",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "ớt chuông": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu hào": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 17,
+    "ten": "Bánh mì trứng",
+    "loai": "Món sáng",
+    "thoi_gian": 10,
+    "do_kho": "Dễ",
+    "mo_ta": "Bánh mì giòn kẹp trứng chiên, dưa leo và rau thơm.",
+    "nguyen_lieu": [
+      "bánh mì",
+      "trứng",
+      "dưa leo",
+      "rau thơm",
+      "nước tương"
+    ],
+    "cach_nau": [
+      "Rửa dưa leo và rau thơm, thái lát mỏng.",
+      "Chiên trứng với chút dầu đến khi chín.",
+      "Làm nóng bánh mì trong lò hoặc chảo cho vỏ giòn.",
+      "Kẹp trứng, dưa leo và rau thơm vào bánh mì.",
+      "Thêm nước tương hoặc tương ớt tùy khẩu vị."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh mì": {
+        "so_luong": 2,
+        "don_vi": "ổ"
+      },
+      "trứng": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "rau thơm": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "áp chảo",
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh mì": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rau thơm": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 18,
+    "ten": "Đậu que xào thịt băm",
+    "loai": "Món mặn",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Đậu que giòn ngọt xào thịt băm cho bữa cơm gia đình.",
+    "nguyen_lieu": [
+      "đậu que",
+      "thịt heo băm",
+      "tỏi",
+      "nước mắm",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Nhặt hai đầu đậu que, rửa sạch rồi cắt khúc.",
+      "Ướp thịt băm với nước mắm và tiêu 10 phút.",
+      "Phi thơm tỏi, cho thịt vào xào tơi và chín.",
+      "Cho đậu que vào đảo, thêm chút nước rồi đậy nắp vài phút.",
+      "Mở nắp, xào đến khi đậu chín giòn và nêm lại."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu que": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "thịt heo băm": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu que": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "thịt heo băm": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 19,
+    "ten": "Canh bí đỏ nấu tôm",
+    "loai": "Món canh",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Canh bí đỏ mềm ngọt nấu với tôm, có vị thanh tự nhiên.",
+    "nguyen_lieu": [
+      "bí đỏ",
+      "tôm",
+      "hành lá",
+      "hành tím",
+      "muối"
+    ],
+    "cach_nau": [
+      "Gọt bí đỏ, bỏ hạt, rửa sạch và cắt miếng vừa ăn.",
+      "Bóc vỏ tôm, bỏ chỉ lưng, băm nhỏ hoặc để nguyên.",
+      "Phi thơm hành tím, cho tôm vào xào sơ.",
+      "Thêm nước vừa đủ, đun sôi rồi cho bí đỏ vào.",
+      "Nấu đến khi bí mềm, nêm vừa ăn và rắc hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bí đỏ": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "hành tím": {
+        "so_luong": 3,
+        "don_vi": "củ"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "nấu canh",
+      "đun sôi"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bí đỏ": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 20,
+    "ten": "Bún thịt nướng",
+    "loai": "Món nước",
+    "thoi_gian": 50,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bún với thịt nướng thơm, rau sống, dưa leo và nước mắm chua ngọt.",
+    "nguyen_lieu": [
+      "bún",
+      "thịt heo",
+      "sả",
+      "tỏi",
+      "mật ong",
+      "dưa leo",
+      "rau sống",
+      "đậu phộng"
+    ],
+    "cach_nau": [
+      "Thái thịt mỏng, ướp sả, tỏi, nước mắm, đường và mật ong ít nhất 30 phút.",
+      "Nướng thịt trên chảo hoặc nồi chiên không dầu đến khi chín, trở đều.",
+      "Rửa rau, thái dưa leo và chuẩn bị bún.",
+      "Pha nước mắm với nước ấm, đường, chanh và tỏi ớt băm.",
+      "Cho bún, rau, dưa leo và thịt nướng vào tô.",
+      "Rắc đậu phộng rang và dùng với nước mắm chua ngọt."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "thịt heo": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 3,
+        "don_vi": "cây"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "mật ong": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "rau sống": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "đậu phộng": {
+        "so_luong": 50,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "nướng",
+      "luộc",
+      "pha nước trộn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "mật ong": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "đậu phộng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 21,
+    "ten": "Cơm tấm sườn nướng",
+    "loai": "Món cơm",
+    "thoi_gian": 55,
+    "do_kho": "Trung bình",
+    "mo_ta": "Sườn heo nướng thơm, ăn cùng cơm tấm, đồ chua và nước mắm chua ngọt.",
+    "nguyen_lieu": [
+      "gạo tấm",
+      "sườn cốt lết",
+      "tỏi",
+      "sả",
+      "mật ong",
+      "dưa leo",
+      "cà rốt",
+      "củ cải trắng",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Vo gạo tấm nhẹ tay, ngâm 15 phút rồi nấu với lượng nước phù hợp.",
+      "Rửa sườn, thấm khô, khía nhẹ và ướp tỏi, sả, mật ong, nước mắm khoảng 30 phút.",
+      "Nướng hoặc áp chảo sườn ở lửa vừa, trở đều đến khi chín và xém cạnh.",
+      "Bào cà rốt, củ cải làm đồ chua; pha nước mắm với đường, nước và chanh.",
+      "Xới cơm ra đĩa, đặt sườn, thêm dưa leo, đồ chua và nước mắm."
+    ],
+    "dinh_luong_2_nguoi": {
+      "gạo tấm": {
+        "so_luong": 180,
+        "don_vi": "g"
+      },
+      "sườn cốt lết": {
+        "so_luong": 2,
+        "don_vi": "miếng"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "sả": {
+        "so_luong": 1,
+        "don_vi": "cây"
+      },
+      "mật ong": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "củ cải trắng": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "nướng",
+      "ướp",
+      "nấu cơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "gạo tấm": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "sườn cốt lết": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "mật ong": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "củ cải trắng": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 22,
+    "ten": "Bò kho bánh mì",
+    "loai": "Món nước",
+    "thoi_gian": 100,
+    "do_kho": "Trung bình",
+    "mo_ta": "Thịt bò mềm thơm mùi sả, quế và hồi, dùng nóng với bánh mì.",
+    "nguyen_lieu": [
+      "thịt bò",
+      "cà rốt",
+      "sả",
+      "tỏi",
+      "hành tím",
+      "gừng",
+      "bột bò kho",
+      "nước dừa tươi",
+      "bánh mì"
+    ],
+    "cach_nau": [
+      "Thịt bò cắt khối vừa ăn, rửa nhanh và để ráo; cà rốt gọt vỏ, cắt khúc.",
+      "Ướp bò với bột bò kho, tỏi, hành tím, gừng và chút nước mắm trong 20–30 phút.",
+      "Phi thơm hành tỏi, cho bò vào đảo săn để giữ hương vị.",
+      "Thêm sả đập dập, nước dừa và nước vừa đủ; hầm lửa nhỏ đến khi bò gần mềm.",
+      "Cho cà rốt vào hầm tiếp đến khi mềm, nêm lại và dùng nóng với bánh mì."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt bò": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "sả": {
+        "so_luong": 2,
+        "don_vi": "cây"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "gừng": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "bột bò kho": {
+        "so_luong": 1,
+        "don_vi": "gói nhỏ"
+      },
+      "nước dừa tươi": {
+        "so_luong": 400,
+        "don_vi": "ml"
+      },
+      "bánh mì": {
+        "so_luong": 2,
+        "don_vi": "ổ"
+      }
+    },
+    "cach_che_bien": [
+      "xào săn",
+      "ướp",
+      "hầm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "bột bò kho": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "nước dừa tươi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bánh mì": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món."
+    }
+  },
+  {
+    "id": 23,
+    "ten": "Thịt heo rang cháy cạnh",
+    "loai": "Món mặn",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Thịt ba chỉ rang vàng cạnh, thơm hành và tiêu, ăn cùng cơm nóng.",
+    "nguyen_lieu": [
+      "thịt ba chỉ",
+      "hành tím",
+      "tỏi",
+      "nước mắm",
+      "đường",
+      "tiêu",
+      "hành lá"
+    ],
+    "cach_nau": [
+      "Thịt ba chỉ rửa sạch, thấm khô và thái miếng mỏng vừa ăn.",
+      "Ướp thịt với một ít nước mắm, tiêu và hành tím băm khoảng 10 phút.",
+      "Cho thịt vào chảo, rang lửa vừa để mỡ tiết ra và hai mặt xém vàng.",
+      "Chắt bớt mỡ nếu cần, thêm tỏi, nước mắm và chút đường, đảo đến khi áo đều.",
+      "Rắc hành lá, tiêu và tắt bếp khi thịt có màu vàng nâu."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt ba chỉ": {
+        "so_luong": 350,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "rang",
+      "áp chảo",
+      "ướp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt ba chỉ": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 24,
+    "ten": "Sườn xào chua ngọt",
+    "loai": "Món mặn",
+    "thoi_gian": 45,
+    "do_kho": "Trung bình",
+    "mo_ta": "Sườn mềm phủ sốt chua ngọt từ cà chua, giấm và đường.",
+    "nguyen_lieu": [
+      "sườn heo",
+      "cà chua",
+      "hành tây",
+      "tỏi",
+      "giấm",
+      "đường",
+      "nước mắm",
+      "hành lá"
+    ],
+    "cach_nau": [
+      "Sườn chặt miếng nhỏ, chần sơ rồi rửa sạch và để ráo.",
+      "Ướp sườn với nước mắm, tiêu và tỏi băm khoảng 15 phút.",
+      "Chiên áp chảo sườn đến khi vàng các mặt, gắp ra.",
+      "Phi thơm tỏi, xào cà chua và hành tây; thêm giấm, đường, nước mắm và chút nước.",
+      "Cho sườn vào rim đến khi sốt sánh và sườn chín mềm, rắc hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "sườn heo": {
+        "so_luong": 500,
+        "don_vi": "g"
+      },
+      "cà chua": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "giấm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "chiên",
+      "rim"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "sườn heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "giấm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 25,
+    "ten": "Cá diêu hồng hấp gừng",
+    "loai": "Món mặn",
+    "thoi_gian": 35,
+    "do_kho": "Dễ",
+    "mo_ta": "Cá hấp giữ vị ngọt tự nhiên, thơm gừng, hành và nước tương.",
+    "nguyen_lieu": [
+      "cá diêu hồng",
+      "gừng",
+      "hành lá",
+      "hành tây",
+      "nước tương",
+      "dầu mè",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Cá làm sạch, bỏ mang và ruột, khứa nhẹ hai bên rồi để ráo.",
+      "Gừng thái sợi, hành lá cắt khúc, hành tây thái mỏng.",
+      "Ướp cá nhẹ với chút muối, tiêu và gừng trong 10 phút.",
+      "Đặt cá lên đĩa, phủ gừng và hành, hấp khoảng 15–20 phút tùy kích thước đến khi cá chín.",
+      "Rưới nước tương pha dầu mè, thêm hành lá và dùng nóng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cá diêu hồng": {
+        "so_luong": 1,
+        "don_vi": "con khoảng 600 g"
+      },
+      "gừng": {
+        "so_luong": 25,
+        "don_vi": "g"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "nước tương": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "dầu mè": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "hấp",
+      "ướp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cá diêu hồng": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu mè": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 26,
+    "ten": "Tôm rim nước dừa",
+    "loai": "Món mặn",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Tôm rim màu đẹp với nước dừa, vị mặn ngọt hài hòa.",
+    "nguyen_lieu": [
+      "tôm",
+      "nước dừa tươi",
+      "tỏi",
+      "hành tím",
+      "nước mắm",
+      "đường",
+      "tiêu",
+      "hành lá"
+    ],
+    "cach_nau": [
+      "Tôm cắt râu, bỏ chỉ lưng, rửa nhanh và để ráo.",
+      "Ướp tôm với nước mắm, đường, tiêu và hành tím băm trong 10 phút.",
+      "Phi thơm tỏi, cho tôm vào đảo đến khi chuyển màu.",
+      "Thêm nước dừa, rim lửa vừa đến khi nước sốt sánh và bám quanh tôm.",
+      "Rắc hành lá, nếm lại và tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "tôm": {
+        "so_luong": 350,
+        "don_vi": "g"
+      },
+      "nước dừa tươi": {
+        "so_luong": 150,
+        "don_vi": "ml"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "rim",
+      "ướp",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "nước dừa tươi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 27,
+    "ten": "Canh khổ qua nhồi thịt",
+    "loai": "Món canh",
+    "thoi_gian": 50,
+    "do_kho": "Trung bình",
+    "mo_ta": "Khổ qua nhồi thịt băm nấu nước dùng thanh, ăn nóng.",
+    "nguyen_lieu": [
+      "khổ qua",
+      "thịt heo xay",
+      "nấm mèo",
+      "hành tím",
+      "hành lá",
+      "nước dùng",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Khổ qua rửa sạch, cắt khúc, bỏ ruột và hạt; ngâm nước muối loãng rồi rửa lại.",
+      "Nấm mèo ngâm nở, rửa sạch và băm nhỏ; hành tím băm nhuyễn.",
+      "Trộn thịt xay với nấm mèo, hành tím, tiêu và chút muối; nhồi vào từng khúc khổ qua.",
+      "Đun sôi nước dùng, thả khổ qua nhồi thịt vào và hớt bọt.",
+      "Nấu lửa nhỏ đến khi khổ qua mềm và nhân thịt chín; nêm lại, thêm hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "khổ qua": {
+        "so_luong": 2,
+        "don_vi": "trái"
+      },
+      "thịt heo xay": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "nấm mèo": {
+        "so_luong": 10,
+        "don_vi": "g khô"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "nước dùng": {
+        "so_luong": 900,
+        "don_vi": "ml"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "nhồi",
+      "nấu",
+      "hầm nhẹ"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "khổ qua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "nấm mèo": "Cắt bỏ gốc bẩn, lau hoặc rửa nhanh, để ráo; nấm khô cần ngâm nở rồi rửa lại và bỏ phần gốc cứng.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước dùng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 28,
+    "ten": "Canh rau ngót thịt băm",
+    "loai": "Món canh",
+    "thoi_gian": 20,
+    "do_kho": "Dễ",
+    "mo_ta": "Canh rau ngót nấu thịt băm đơn giản, ngọt tự nhiên.",
+    "nguyen_lieu": [
+      "rau ngót",
+      "thịt heo xay",
+      "hành tím",
+      "nước",
+      "nước mắm",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Rau ngót tuốt lá, bỏ lá già, rửa nhiều lần và vò nhẹ.",
+      "Thịt heo xay ướp chút nước mắm, tiêu và hành tím băm.",
+      "Phi thơm hành tím, cho thịt vào đảo tơi.",
+      "Thêm nước, đun sôi và hớt bọt; cho rau ngót vào nấu đến khi mềm.",
+      "Nêm vừa ăn, tắt bếp và dùng nóng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "rau ngót": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "thịt heo xay": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "nước": {
+        "so_luong": 800,
+        "don_vi": "ml"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "nấu"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "rau ngót": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 29,
+    "ten": "Canh bí xanh nấu tôm",
+    "loai": "Món canh",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Bí xanh nấu tôm có vị ngọt nhẹ, thanh mát.",
+    "nguyen_lieu": [
+      "bí xanh",
+      "tôm",
+      "hành tím",
+      "hành lá",
+      "nước",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Bí xanh gọt vỏ, bỏ ruột già, rửa sạch và cắt miếng vừa ăn.",
+      "Tôm bóc vỏ, bỏ chỉ lưng, băm hoặc để nguyên tùy kích thước.",
+      "Phi thơm hành tím, cho tôm vào xào săn.",
+      "Thêm nước, đun sôi rồi cho bí xanh vào nấu đến khi vừa mềm.",
+      "Nêm nước mắm, thêm hành lá và tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bí xanh": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "nước": {
+        "so_luong": 700,
+        "don_vi": "ml"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "nấu"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bí xanh": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 30,
+    "ten": "Canh chua tôm",
+    "loai": "Món canh",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Canh chua tôm với cà chua, thơm, đậu bắp và me.",
+    "nguyen_lieu": [
+      "tôm",
+      "cà chua",
+      "thơm",
+      "đậu bắp",
+      "giá đỗ",
+      "me",
+      "rau om",
+      "ngò gai"
+    ],
+    "cach_nau": [
+      "Tôm bỏ đầu hoặc giữ đầu tùy thích, bóc chỉ lưng và rửa sạch.",
+      "Cà chua bổ múi cau, thơm cắt lát, đậu bắp cắt xéo; rau om và ngò gai rửa sạch.",
+      "Dầm me với nước nóng, lọc lấy nước cốt.",
+      "Đun nước, cho nước me và tôm vào nấu; hớt bọt khi cần.",
+      "Cho cà chua, thơm, đậu bắp và giá vào, nêm chua ngọt vừa miệng; thêm rau thơm."
+    ],
+    "dinh_luong_2_nguoi": {
+      "tôm": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "cà chua": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "thơm": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "đậu bắp": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "giá đỗ": {
+        "so_luong": 80,
+        "don_vi": "g"
+      },
+      "me": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "rau om": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "ngò gai": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "nấu",
+      "dầm me"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "thơm": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "đậu bắp": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "giá đỗ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "me": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau om": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "ngò gai": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 31,
+    "ten": "Mì Quảng gà",
+    "loai": "Món nước",
+    "thoi_gian": 65,
+    "do_kho": "Trung bình",
+    "mo_ta": "Mì Quảng gà với nước nhân đậm đà, đậu phộng và rau sống.",
+    "nguyen_lieu": [
+      "mì quảng",
+      "thịt gà",
+      "trứng cút",
+      "nghệ",
+      "hành tím",
+      "tỏi",
+      "đậu phộng",
+      "bánh tráng",
+      "rau sống"
+    ],
+    "cach_nau": [
+      "Gà rửa sạch, chặt miếng vừa ăn; ướp nghệ, hành tím, tỏi, nước mắm và tiêu.",
+      "Luộc trứng cút, bóc vỏ; rang đậu phộng và giã dập.",
+      "Phi thơm hành tỏi, cho gà vào xào săn.",
+      "Thêm nước vừa đủ, rim gà đến khi chín mềm và nước nhân đậm vị.",
+      "Trụng mì, xếp gà và trứng, chan ít nước nhân; thêm đậu phộng, bánh tráng và rau sống."
+    ],
+    "dinh_luong_2_nguoi": {
+      "mì quảng": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "thịt gà": {
+        "so_luong": 350,
+        "don_vi": "g"
+      },
+      "trứng cút": {
+        "so_luong": 6,
+        "don_vi": "quả"
+      },
+      "nghệ": {
+        "so_luong": 10,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "đậu phộng": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "bánh tráng": {
+        "so_luong": 2,
+        "don_vi": "miếng"
+      },
+      "rau sống": {
+        "so_luong": 150,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "xào săn",
+      "rim"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "mì quảng": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "trứng cút": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "nghệ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "đậu phộng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bánh tráng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 32,
+    "ten": "Bún riêu cua",
+    "loai": "Món nước",
+    "thoi_gian": 70,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bún riêu với riêu cua, cà chua và nước dùng chua dịu.",
+    "nguyen_lieu": [
+      "bún",
+      "cua xay",
+      "cà chua",
+      "đậu hũ",
+      "trứng",
+      "hành tím",
+      "giấm bỗng",
+      "rau sống"
+    ],
+    "cach_nau": [
+      "Cua xay hòa với nước, lọc qua rây lấy nước cua; giữ phần thịt cua.",
+      "Trộn thịt cua với trứng và chút gia vị, hấp hoặc đun nhẹ cho kết lại thành riêu.",
+      "Cà chua bổ múi cau, đậu hũ cắt miếng và chiên vàng nhẹ.",
+      "Phi hành tím, xào cà chua rồi thêm nước cua đã lọc, đun lửa vừa.",
+      "Cho riêu cua, đậu hũ và giấm bỗng vào; nêm vừa ăn, chan với bún và rau sống."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "cua xay": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "cà chua": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "đậu hũ": {
+        "so_luong": 2,
+        "don_vi": "miếng"
+      },
+      "trứng": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "giấm bỗng": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "rau sống": {
+        "so_luong": 150,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "lọc",
+      "hấp",
+      "nấu"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "cua xay": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "đậu hũ": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "giấm bỗng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 33,
+    "ten": "Bún chả Hà Nội",
+    "loai": "Món nước",
+    "thoi_gian": 50,
+    "do_kho": "Trung bình",
+    "mo_ta": "Chả viên và thịt nướng ăn cùng bún, rau sống và nước chấm.",
+    "nguyen_lieu": [
+      "bún",
+      "thịt ba chỉ",
+      "thịt heo xay",
+      "nước mắm",
+      "đường",
+      "tỏi",
+      "hành tím",
+      "đu đủ xanh",
+      "cà rốt",
+      "rau sống"
+    ],
+    "cach_nau": [
+      "Thịt ba chỉ thái lát; thịt xay trộn hành tím, tiêu và nước mắm rồi viên dẹt.",
+      "Ướp hai loại thịt với nước mắm, đường, tỏi và chút dầu trong 20 phút.",
+      "Đu đủ xanh, cà rốt gọt vỏ, thái lát mỏng và ngâm nước muối loãng.",
+      "Nướng thịt và chả viên hoặc áp chảo đến khi chín vàng.",
+      "Pha nước chấm chua ngọt, thêm đu đủ cà rốt; dùng với bún và rau sống."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "thịt ba chỉ": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "thịt heo xay": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 3,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "đu đủ xanh": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "rau sống": {
+        "so_luong": 150,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "nướng",
+      "pha nước chấm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt ba chỉ": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "đu đủ xanh": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rau sống": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 34,
+    "ten": "Bánh cuốn nhân thịt",
+    "loai": "Món ăn sáng",
+    "thoi_gian": 45,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bánh cuốn mềm với nhân thịt nấm mèo, ăn kèm nước mắm.",
+    "nguyen_lieu": [
+      "bột bánh cuốn",
+      "thịt heo xay",
+      "nấm mèo",
+      "hành tím",
+      "hành phi",
+      "giá đỗ",
+      "rau thơm",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Nấm mèo ngâm nở, rửa sạch, bỏ gốc và băm nhỏ; hành tím băm.",
+      "Xào thịt heo xay với hành tím, thêm nấm mèo và nêm nhẹ.",
+      "Pha bột bánh cuốn theo hướng dẫn trên bao bì, khuấy đều để bột nghỉ.",
+      "Tráng lớp bột mỏng trên chảo chống dính hoặc nồi tráng, cho nhân và cuốn lại.",
+      "Xếp bánh ra đĩa, thêm hành phi, rau thơm, giá và nước mắm pha."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bột bánh cuốn": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "thịt heo xay": {
+        "so_luong": 180,
+        "don_vi": "g"
+      },
+      "nấm mèo": {
+        "so_luong": 10,
+        "don_vi": "g khô"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "hành phi": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "giá đỗ": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "rau thơm": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "xào nhân",
+      "tráng bánh"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bột bánh cuốn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "nấm mèo": "Cắt bỏ gốc bẩn, lau hoặc rửa nhanh, để ráo; nấm khô cần ngâm nở rồi rửa lại và bỏ phần gốc cứng.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành phi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "giá đỗ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau thơm": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 35,
+    "ten": "Bánh canh cua",
+    "loai": "Món nước",
+    "thoi_gian": 60,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bánh canh sánh nhẹ với cua, tôm và chả cá.",
+    "nguyen_lieu": [
+      "bánh canh",
+      "thịt cua",
+      "tôm",
+      "chả cá",
+      "xương heo",
+      "hành tím",
+      "hành lá",
+      "ngò rí"
+    ],
+    "cach_nau": [
+      "Xương heo chần sơ, rửa sạch rồi ninh lấy nước dùng và hớt bọt.",
+      "Tôm bóc vỏ, bỏ chỉ lưng; thịt cua gỡ sạch vỏ vụn.",
+      "Phi hành tím, xào nhanh tôm và thịt cua với chút gia vị.",
+      "Cho bánh canh vào nồi nước dùng, nấu đến độ mềm mong muốn; thêm chả cá.",
+      "Cho cua và tôm vào, nêm lại, rắc hành lá và ngò rí."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh canh": {
+        "so_luong": 350,
+        "don_vi": "g"
+      },
+      "thịt cua": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "chả cá": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "xương heo": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "ngò rí": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "ninh",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh canh": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt cua": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "chả cá": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "xương heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "ngò rí": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 36,
+    "ten": "Gà hấp hành",
+    "loai": "Món mặn",
+    "thoi_gian": 45,
+    "do_kho": "Dễ",
+    "mo_ta": "Gà hấp mềm ngọt, thơm mùi hành và gừng.",
+    "nguyen_lieu": [
+      "đùi gà",
+      "hành lá",
+      "gừng",
+      "hành tím",
+      "muối",
+      "tiêu",
+      "nước tương"
+    ],
+    "cach_nau": [
+      "Đùi gà rửa sạch, thấm khô; dùng dao khứa nhẹ phần thịt dày.",
+      "Gừng thái sợi, hành lá cắt khúc, hành tím đập dập.",
+      "Ướp gà với muối, tiêu và chút nước tương khoảng 15 phút.",
+      "Xếp gừng, hành tím dưới đĩa, đặt gà lên trên và hấp đến khi gà chín hoàn toàn.",
+      "Thêm hành lá vào vài phút cuối, kiểm tra độ chín rồi chặt miếng dùng nóng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đùi gà": {
+        "so_luong": 2,
+        "don_vi": "cái"
+      },
+      "hành lá": {
+        "so_luong": 5,
+        "don_vi": "nhánh"
+      },
+      "gừng": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "hấp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đùi gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 37,
+    "ten": "Cánh gà chiên nước mắm",
+    "loai": "Món mặn",
+    "thoi_gian": 35,
+    "do_kho": "Dễ",
+    "mo_ta": "Cánh gà chiên vàng áo sốt nước mắm tỏi thơm.",
+    "nguyen_lieu": [
+      "cánh gà",
+      "tỏi",
+      "nước mắm",
+      "đường",
+      "bột bắp",
+      "tiêu",
+      "rau xà lách"
+    ],
+    "cach_nau": [
+      "Cánh gà rửa sạch, thấm khô và khứa nhẹ để dễ thấm gia vị.",
+      "Ướp gà với tiêu và chút nước mắm trong 15 phút; áo lớp bột bắp mỏng.",
+      "Chiên gà ở lửa vừa đến khi chín và vàng đều, vớt ra để ráo.",
+      "Phi thơm tỏi, thêm nước mắm và đường, khuấy đến khi sốt hơi sánh.",
+      "Cho gà vào đảo nhanh để sốt phủ đều, dùng kèm xà lách."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cánh gà": {
+        "so_luong": 500,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 4,
+        "don_vi": "tép"
+      },
+      "nước mắm": {
+        "so_luong": 1.5,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "bột bắp": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "rau xà lách": {
+        "so_luong": 100,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "chiên",
+      "áo sốt"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cánh gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bột bắp": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "rau xà lách": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 38,
+    "ten": "Đậu hũ non sốt nấm",
+    "loai": "Món chay",
+    "thoi_gian": 20,
+    "do_kho": "Dễ",
+    "mo_ta": "Đậu hũ non mềm ăn cùng sốt nấm thơm và nước tương.",
+    "nguyen_lieu": [
+      "đậu hũ non",
+      "nấm đông cô",
+      "nấm bào ngư",
+      "hành boa rô",
+      "nước tương",
+      "dầu mè",
+      "bột bắp"
+    ],
+    "cach_nau": [
+      "Nấm đông cô ngâm mềm nếu dùng loại khô, rửa sạch và thái lát; nấm bào ngư xé vừa ăn.",
+      "Đậu hũ non lấy nhẹ khỏi hộp, cắt khoanh dày.",
+      "Phi thơm hành boa rô, cho các loại nấm vào xào đến khi mềm.",
+      "Thêm nước tương, chút nước và dầu mè; nấu sôi nhẹ.",
+      "Cho đậu hũ vào, rưới bột bắp pha loãng để sốt sánh nhẹ, tránh đảo mạnh."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu hũ non": {
+        "so_luong": 2,
+        "don_vi": "hộp"
+      },
+      "nấm đông cô": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "nấm bào ngư": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "hành boa rô": {
+        "so_luong": 1,
+        "don_vi": "nhánh"
+      },
+      "nước tương": {
+        "so_luong": 1.5,
+        "don_vi": "muỗng canh"
+      },
+      "dầu mè": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "bột bắp": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "om nhẹ"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu hũ non": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "nấm đông cô": "Cắt bỏ gốc bẩn, lau hoặc rửa nhanh, để ráo; nấm khô cần ngâm nở rồi rửa lại và bỏ phần gốc cứng.",
+      "nấm bào ngư": "Cắt bỏ gốc bẩn, lau hoặc rửa nhanh, để ráo; nấm khô cần ngâm nở rồi rửa lại và bỏ phần gốc cứng.",
+      "hành boa rô": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu mè": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bột bắp": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 39,
+    "ten": "Nấm đùi gà kho tiêu",
+    "loai": "Món chay",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Nấm đùi gà kho tiêu đậm đà, phù hợp ăn cùng cơm.",
+    "nguyen_lieu": [
+      "nấm đùi gà",
+      "nước tương",
+      "nước mắm chay",
+      "đường",
+      "tiêu",
+      "hành boa rô"
+    ],
+    "cach_nau": [
+      "Nấm đùi gà rửa nhanh, lau khô và cắt lát dày vừa ăn.",
+      "Hành boa rô rửa sạch, thái lát mỏng.",
+      "Đun đường với chút nước đến màu cánh gián nhẹ, tránh để cháy.",
+      "Cho nấm vào đảo, thêm nước tương, nước mắm chay và chút nước; kho lửa nhỏ.",
+      "Khi nước kho sánh, rắc tiêu và hành boa rô rồi tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "nấm đùi gà": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "nước mắm chay": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành boa rô": {
+        "so_luong": 1,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "kho",
+      "rim"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "nấm đùi gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm chay": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành boa rô": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 40,
+    "ten": "Rau củ luộc chấm kho quẹt",
+    "loai": "Món rau",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Rau củ luộc giữ độ giòn, dùng với kho quẹt mặn ngọt.",
+    "nguyen_lieu": [
+      "đậu que",
+      "cà rốt",
+      "bông cải xanh",
+      "thịt ba chỉ",
+      "tôm khô",
+      "nước mắm",
+      "đường",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Đậu que tước xơ, cắt khúc; cà rốt gọt vỏ cắt thanh; bông cải tách nhánh và rửa sạch.",
+      "Tôm khô ngâm nước ấm cho mềm, rửa lại; thịt ba chỉ thái hạt lựu.",
+      "Rang thịt ba chỉ cho ra mỡ, thêm tôm khô và đảo thơm.",
+      "Thêm nước mắm, đường, tiêu và chút nước, rim lửa nhỏ đến khi sánh.",
+      "Luộc từng loại rau củ trong nước sôi có chút muối, vớt ra để ráo và dùng với kho quẹt."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu que": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "bông cải xanh": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "thịt ba chỉ": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "tôm khô": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "rang",
+      "rim"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu que": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "bông cải xanh": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "thịt ba chỉ": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tôm khô": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 41,
+    "ten": "Gỏi gà xé phay",
+    "loai": "Món rau",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Gỏi gà trộn hành tây, bắp cải và rau răm chua ngọt.",
+    "nguyen_lieu": [
+      "thịt gà",
+      "bắp cải",
+      "hành tây",
+      "cà rốt",
+      "rau răm",
+      "chanh",
+      "nước mắm",
+      "đường",
+      "đậu phộng"
+    ],
+    "cach_nau": [
+      "Gà luộc chín, để nguội bớt rồi xé sợi theo thớ.",
+      "Bắp cải thái sợi, cà rốt bào sợi; hành tây thái mỏng và ngâm nước đá.",
+      "Rau răm nhặt lá, rửa sạch và để ráo; đậu phộng rang giã dập.",
+      "Pha nước trộn gồm nước mắm, đường và nước cốt chanh, khuấy tan.",
+      "Trộn gà với rau củ và nước trộn, để thấm vài phút rồi thêm rau răm, đậu phộng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt gà": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "bắp cải": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "rau răm": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "chanh": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1.5,
+        "don_vi": "muỗng canh"
+      },
+      "đậu phộng": {
+        "so_luong": 20,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "xé",
+      "trộn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "bắp cải": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rau răm": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đậu phộng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 42,
+    "ten": "Gỏi cuốn chay",
+    "loai": "Món chay",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Gỏi cuốn rau củ, đậu hũ và bún, ăn cùng nước chấm tương.",
+    "nguyen_lieu": [
+      "bánh tráng",
+      "bún tươi",
+      "đậu hũ",
+      "xà lách",
+      "hẹ",
+      "dưa leo",
+      "cà rốt",
+      "tương đậu"
+    ],
+    "cach_nau": [
+      "Đậu hũ cắt thanh, áp chảo vàng nhẹ rồi để nguội.",
+      "Rau xà lách và hẹ rửa sạch, để thật ráo; dưa leo và cà rốt thái sợi.",
+      "Trụng bún nhanh nếu cần, để ráo và chia phần nhỏ.",
+      "Làm mềm bánh tráng bằng nước sạch, xếp rau, bún, đậu hũ và cuốn chặt tay.",
+      "Pha tương đậu với chút nước ấm, đường và đậu phộng giã; dùng làm nước chấm."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh tráng": {
+        "so_luong": 8,
+        "don_vi": "miếng"
+      },
+      "bún tươi": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "đậu hũ": {
+        "so_luong": 2,
+        "don_vi": "miếng"
+      },
+      "xà lách": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "hẹ": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "tương đậu": {
+        "so_luong": 3,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "áp chảo",
+      "trụng",
+      "cuốn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh tráng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bún tươi": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "đậu hũ": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "xà lách": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "hẹ": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tương đậu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 43,
+    "ten": "Miến xào cua",
+    "loai": "Món nhanh",
+    "thoi_gian": 25,
+    "do_kho": "Trung bình",
+    "mo_ta": "Miến xào tơi với thịt cua, trứng và rau củ.",
+    "nguyen_lieu": [
+      "miến dong",
+      "thịt cua",
+      "trứng",
+      "cà rốt",
+      "hành tây",
+      "hành lá",
+      "nước tương",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Miến ngâm nước mát đến mềm vừa, cắt ngắn và để ráo.",
+      "Thịt cua kiểm tra sạch vỏ; cà rốt thái sợi, hành tây thái múi mỏng.",
+      "Đánh tan trứng, tráng mỏng rồi thái sợi.",
+      "Xào hành tây và cà rốt, thêm thịt cua đảo nhẹ; cho miến vào.",
+      "Nêm nước tương, đảo tơi đến khi miến chín; thêm trứng và hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "miến dong": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "thịt cua": {
+        "so_luong": 120,
+        "don_vi": "g"
+      },
+      "trứng": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "cà rốt": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "miến dong": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt cua": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 44,
+    "ten": "Cơm gà xối mỡ",
+    "loai": "Món cơm",
+    "thoi_gian": 55,
+    "do_kho": "Trung bình",
+    "mo_ta": "Cơm gà thơm, da gà vàng giòn, ăn kèm dưa leo và nước mắm.",
+    "nguyen_lieu": [
+      "đùi gà",
+      "gạo",
+      "gừng",
+      "hành tím",
+      "tỏi",
+      "dưa leo",
+      "xà lách",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Đùi gà rửa sạch, thấm khô; gạo vo sạch và để ráo.",
+      "Luộc gà với gừng và hành tím đến khi chín, giữ lại nước luộc để nấu cơm.",
+      "Dùng nước luộc gà nấu cơm; nêm nhẹ để cơm thơm.",
+      "Thấm khô da gà, chiên ngập hoặc áp chảo cẩn thận đến khi da vàng giòn và thịt nóng chín.",
+      "Dọn cơm với gà, dưa leo, xà lách và nước mắm tỏi."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đùi gà": {
+        "so_luong": 2,
+        "don_vi": "cái"
+      },
+      "gạo": {
+        "so_luong": 180,
+        "don_vi": "g"
+      },
+      "gừng": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "xà lách": {
+        "so_luong": 80,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "nấu cơm",
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đùi gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "gạo": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "xà lách": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 45,
+    "ten": "Cơm chiên Dương Châu",
+    "loai": "Món cơm",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Cơm chiên hạt tơi với tôm, lạp xưởng, trứng và rau củ.",
+    "nguyen_lieu": [
+      "cơm nguội",
+      "tôm",
+      "lạp xưởng",
+      "trứng",
+      "đậu Hà Lan",
+      "cà rốt",
+      "hành lá",
+      "tỏi"
+    ],
+    "cach_nau": [
+      "Cơm nguội dùng tay bóp tơi; tôm bóc vỏ, bỏ chỉ lưng và cắt nhỏ.",
+      "Lạp xưởng thái hạt lựu; cà rốt thái hạt lựu, đậu Hà Lan rửa sạch.",
+      "Đánh tan trứng, chiên tơi rồi để riêng.",
+      "Phi thơm tỏi, xào tôm, lạp xưởng và rau củ đến khi chín.",
+      "Cho cơm vào đảo trên lửa vừa-lớn, nêm gia vị, thêm trứng và hành lá."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cơm nguội": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "lạp xưởng": {
+        "so_luong": 1,
+        "don_vi": "cây"
+      },
+      "trứng": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "đậu Hà Lan": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      }
+    },
+    "cach_che_bien": [
+      "chiên",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cơm nguội": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "lạp xưởng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "đậu Hà Lan": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều."
+    }
+  },
+  {
+    "id": 46,
+    "ten": "Mì xào hải sản",
+    "loai": "Món nhanh",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Mì xào tôm mực cùng rau cải, thơm và đậm vị.",
+    "nguyen_lieu": [
+      "mì trứng",
+      "tôm",
+      "mực",
+      "cải thìa",
+      "cà rốt",
+      "tỏi",
+      "dầu hào",
+      "nước tương"
+    ],
+    "cach_nau": [
+      "Tôm bóc vỏ, bỏ chỉ lưng; mực làm sạch, khứa nhẹ và cắt miếng.",
+      "Cải thìa tách bẹ, rửa sạch; cà rốt thái sợi.",
+      "Trụng mì vừa mềm, xả nhanh và để ráo.",
+      "Phi thơm tỏi, xào tôm và mực đến vừa chín, gắp ra.",
+      "Xào rau củ, cho mì và hải sản trở lại, thêm dầu hào và nước tương, đảo đều."
+    ],
+    "dinh_luong_2_nguoi": {
+      "mì trứng": {
+        "so_luong": 2,
+        "don_vi": "vắt"
+      },
+      "tôm": {
+        "so_luong": 120,
+        "don_vi": "g"
+      },
+      "mực": {
+        "so_luong": 120,
+        "don_vi": "g"
+      },
+      "cải thìa": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "dầu hào": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "trụng",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "mì trứng": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "mực": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cải thìa": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "dầu hào": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 47,
+    "ten": "Bún cá Châu Đốc",
+    "loai": "Món nước",
+    "thoi_gian": 70,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bún cá với cá lóc, nghệ và rau ăn kèm đặc trưng miền Tây.",
+    "nguyen_lieu": [
+      "bún",
+      "cá lóc",
+      "nghệ",
+      "sả",
+      "ngải bún",
+      "cà tím",
+      "rau muống bào",
+      "rau nhút"
+    ],
+    "cach_nau": [
+      "Cá lóc làm sạch, cắt khúc; nghệ giã nhỏ, sả đập dập.",
+      "Luộc cá với sả và nghệ đến khi vừa chín, vớt cá ra gỡ xương.",
+      "Giữ nước luộc, lọc lại cho trong; nấu cùng ngải bún và cà tím.",
+      "Ướp cá với chút nước mắm, nghệ rồi áp chảo nhẹ nếu thích.",
+      "Nêm nước dùng, chan lên bún, thêm cá và rau ăn kèm."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún": {
+        "so_luong": 350,
+        "don_vi": "g"
+      },
+      "cá lóc": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "nghệ": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 2,
+        "don_vi": "cây"
+      },
+      "ngải bún": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "cà tím": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "rau muống bào": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "rau nhút": {
+        "so_luong": 80,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "lọc",
+      "nấu"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "cá lóc": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "nghệ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "ngải bún": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "cà tím": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rau muống bào": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "rau nhút": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 48,
+    "ten": "Cháo sườn",
+    "loai": "Món ăn sáng",
+    "thoi_gian": 60,
+    "do_kho": "Dễ",
+    "mo_ta": "Cháo gạo nấu nhừ với sườn, ăn cùng hành và tiêu.",
+    "nguyen_lieu": [
+      "gạo tẻ",
+      "gạo nếp",
+      "sườn heo",
+      "hành tím",
+      "hành lá",
+      "tiêu",
+      "quẩy"
+    ],
+    "cach_nau": [
+      "Gạo vo sạch, ngâm 20 phút rồi để ráo; sườn chặt miếng và chần sơ.",
+      "Ninh sườn với nước đến khi thịt mềm, vớt ra gỡ thịt và lọc nước dùng.",
+      "Cho gạo vào nước dùng, nấu lửa nhỏ và khuấy định kỳ để cháo không bén đáy.",
+      "Khi cháo nhừ, cho thịt sườn trở lại và nêm vừa ăn.",
+      "Múc cháo, thêm hành lá, tiêu và quẩy khi dùng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "gạo tẻ": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "gạo nếp": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "sườn heo": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "quẩy": {
+        "so_luong": 2,
+        "don_vi": "cây"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "ninh",
+      "nấu cháo"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "gạo tẻ": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "gạo nếp": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "sườn heo": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "quẩy": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 49,
+    "ten": "Bò né trứng ốp la",
+    "loai": "Món ăn sáng",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Thịt bò áp chảo cùng trứng ốp la, pate và bánh mì.",
+    "nguyen_lieu": [
+      "thịt bò",
+      "trứng",
+      "pate",
+      "hành tây",
+      "bơ",
+      "bánh mì",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Thịt bò thái lát mỏng, thấm khô; hành tây thái múi mỏng.",
+      "Ướp bò với tiêu, chút nước mắm và tỏi băm trong 10 phút.",
+      "Làm nóng chảo gang, cho bơ vào rồi áp chảo bò nhanh trên lửa lớn.",
+      "Đẩy bò sang một bên, thêm hành tây, pate và đập trứng vào chảo.",
+      "Nấu trứng theo độ chín mong muốn, dùng nóng với bánh mì."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt bò": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "trứng": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "pate": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "bơ": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "bánh mì": {
+        "so_luong": 2,
+        "don_vi": "ổ"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "áp chảo",
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "pate": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "bơ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bánh mì": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 50,
+    "ten": "Bánh mì thịt nướng",
+    "loai": "Món ăn sáng",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Bánh mì giòn kẹp thịt nướng, đồ chua và rau thơm.",
+    "nguyen_lieu": [
+      "bánh mì",
+      "thịt heo nạc vai",
+      "sả",
+      "tỏi",
+      "mật ong",
+      "dưa leo",
+      "đồ chua",
+      "ngò rí"
+    ],
+    "cach_nau": [
+      "Thịt nạc vai thái lát mỏng; sả và tỏi băm nhuyễn.",
+      "Ướp thịt với sả, tỏi, mật ong, nước mắm và dầu ăn khoảng 30 phút.",
+      "Nướng hoặc áp chảo thịt đến khi chín vàng, không để cháy.",
+      "Dưa leo thái thanh, chuẩn bị đồ chua và ngò rí đã rửa sạch.",
+      "Rạch bánh mì, cho thịt, dưa leo, đồ chua và ngò rí vào."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh mì": {
+        "so_luong": 2,
+        "don_vi": "ổ"
+      },
+      "thịt heo nạc vai": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 1,
+        "don_vi": "cây"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "mật ong": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "đồ chua": {
+        "so_luong": 80,
+        "don_vi": "g"
+      },
+      "ngò rí": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "nướng"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh mì": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "thịt heo nạc vai": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "mật ong": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "đồ chua": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "ngò rí": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 51,
+    "ten": "Khoai tây chiên giòn",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Khoai tây chiên vàng giòn, dùng kèm tương cà.",
+    "nguyen_lieu": [
+      "khoai tây",
+      "muối",
+      "dầu ăn",
+      "tương cà"
+    ],
+    "cach_nau": [
+      "Khoai tây gọt vỏ, cắt thanh đều nhau để chín đồng đều.",
+      "Ngâm khoai trong nước lạnh 15 phút để giảm tinh bột bề mặt, sau đó rửa và thấm thật khô.",
+      "Chiên lần đầu ở lửa vừa đến khi khoai chín mềm nhưng chưa vàng đậm, vớt ra.",
+      "Để khoai nghỉ vài phút, chiên lần hai đến khi vàng giòn.",
+      "Rắc muối nhẹ và dùng ngay với tương cà."
+    ],
+    "dinh_luong_2_nguoi": {
+      "khoai tây": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "dầu ăn": {
+        "so_luong": 500,
+        "don_vi": "ml để chiên"
+      },
+      "tương cà": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "khoai tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tương cà": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 52,
+    "ten": "Bắp xào tép",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Bắp ngọt xào tép khô, hành lá và bơ.",
+    "nguyen_lieu": [
+      "bắp ngọt",
+      "tép khô",
+      "hành lá",
+      "bơ",
+      "đường",
+      "muối"
+    ],
+    "cach_nau": [
+      "Bắp tách hạt, rửa sạch và để ráo; tép khô rửa nhanh, để ráo.",
+      "Hành lá thái nhỏ, phần đầu hành để riêng.",
+      "Đun bơ, phi thơm đầu hành rồi cho tép khô vào đảo.",
+      "Thêm hạt bắp, xào đến khi bắp chín; nêm chút muối và đường.",
+      "Cho hành lá vào đảo nhanh rồi tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bắp ngọt": {
+        "so_luong": 2,
+        "don_vi": "trái"
+      },
+      "tép khô": {
+        "so_luong": 25,
+        "don_vi": "g"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "bơ": {
+        "so_luong": 10,
+        "don_vi": "g"
+      },
+      "đường": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "muối": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "xào",
+      "phi thơm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bắp ngọt": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tép khô": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "bơ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 53,
+    "ten": "Trứng hấp thịt băm",
+    "loai": "Món mặn",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Trứng hấp mềm mịn cùng thịt băm và hành lá.",
+    "nguyen_lieu": [
+      "trứng",
+      "thịt heo xay",
+      "hành tím",
+      "hành lá",
+      "nước",
+      "nước mắm",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Thịt heo xay ướp hành tím băm, nước mắm và tiêu.",
+      "Đánh trứng với nước theo tỷ lệ phù hợp, lọc qua rây để hỗn hợp mịn.",
+      "Trộn thịt vào trứng, hớt bọt trên mặt và đổ vào tô chịu nhiệt.",
+      "Hấp lửa nhỏ, đậy nắp có lót khăn để nước không nhỏ xuống mặt trứng.",
+      "Hấp đến khi phần giữa đông và chín, rắc hành lá rồi dùng nóng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "trứng": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "thịt heo xay": {
+        "so_luong": 120,
+        "don_vi": "g"
+      },
+      "hành tím": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      },
+      "nước": {
+        "so_luong": 100,
+        "don_vi": "ml"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "trộn",
+      "hấp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "nước": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 54,
+    "ten": "Cá basa kho tộ",
+    "loai": "Món mặn",
+    "thoi_gian": 35,
+    "do_kho": "Dễ",
+    "mo_ta": "Cá basa kho trong nồi đất với nước màu, tiêu và hành.",
+    "nguyen_lieu": [
+      "cá basa",
+      "nước mắm",
+      "đường",
+      "nước màu",
+      "hành tím",
+      "tiêu",
+      "ớt",
+      "hành lá"
+    ],
+    "cach_nau": [
+      "Cá basa cắt khúc, rửa nhẹ và thấm khô; tránh bóp làm nát cá.",
+      "Ướp cá với nước mắm, đường, tiêu và hành tím trong 15 phút.",
+      "Xếp cá vào nồi, thêm nước màu và chút nước lọc.",
+      "Kho lửa nhỏ, trở nhẹ một lần nếu cần, đến khi cá chín và nước kho sánh.",
+      "Thêm ớt, hành lá và tiêu trước khi tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cá basa": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "nước màu": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "hành tím": {
+        "so_luong": 2,
+        "don_vi": "củ"
+      },
+      "tiêu": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "ớt": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "hành lá": {
+        "so_luong": 2,
+        "don_vi": "nhánh"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "kho"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cá basa": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước màu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành tím": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn."
+    }
+  },
+  {
+    "id": 55,
+    "ten": "Đậu hũ chiên sả ớt",
+    "loai": "Món chay",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Đậu hũ chiên vàng áo sả ớt thơm cay nhẹ.",
+    "nguyen_lieu": [
+      "đậu hũ",
+      "sả",
+      "ớt",
+      "tỏi",
+      "nước tương",
+      "đường"
+    ],
+    "cach_nau": [
+      "Đậu hũ để ráo nước, cắt miếng vuông vừa ăn.",
+      "Sả, ớt và tỏi băm nhỏ; pha nước tương với chút đường.",
+      "Chiên đậu hũ đến khi các mặt vàng, gắp ra để ráo dầu.",
+      "Phi thơm sả, tỏi và ớt ở lửa nhỏ để không cháy.",
+      "Cho đậu hũ vào đảo nhẹ, rưới nước tương và áo đều rồi tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu hũ": {
+        "so_luong": 3,
+        "don_vi": "miếng"
+      },
+      "sả": {
+        "so_luong": 2,
+        "don_vi": "cây"
+      },
+      "ớt": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "nước tương": {
+        "so_luong": 1.5,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "chiên",
+      "phi thơm",
+      "đảo"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu hũ": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 56,
+    "ten": "Bông cải xanh xào tỏi",
+    "loai": "Món rau",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Bông cải xanh xào nhanh giữ độ giòn và màu xanh.",
+    "nguyen_lieu": [
+      "bông cải xanh",
+      "tỏi",
+      "dầu ăn",
+      "muối",
+      "dầu hào"
+    ],
+    "cach_nau": [
+      "Bông cải tách nhánh vừa ăn, ngâm nước muối loãng rồi rửa sạch.",
+      "Tỏi bóc vỏ, đập dập và băm nhỏ.",
+      "Chần bông cải trong nước sôi khoảng 1 phút rồi vớt ra để ráo.",
+      "Phi thơm tỏi, cho bông cải vào đảo nhanh trên lửa lớn.",
+      "Nêm muối và dầu hào vừa ăn, đảo đều rồi tắt bếp khi rau còn độ giòn."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bông cải xanh": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "dầu ăn": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "muối": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "dầu hào": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bông cải xanh": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu hào": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 57,
+    "ten": "Đậu que xào tỏi",
+    "loai": "Món rau",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Đậu que xào tỏi giòn xanh, dễ làm cho bữa cơm.",
+    "nguyen_lieu": [
+      "đậu que",
+      "tỏi",
+      "dầu ăn",
+      "muối",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Đậu que tước bỏ xơ hai bên, rửa sạch và cắt khúc.",
+      "Tỏi bóc vỏ, đập dập và băm nhỏ.",
+      "Đun sôi nước, chần đậu que nhanh rồi vớt ra để ráo.",
+      "Phi thơm tỏi, cho đậu vào xào lửa lớn để giữ màu xanh.",
+      "Nêm muối, tiêu vừa ăn; đảo đến khi đậu chín tới."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu que": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "dầu ăn": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "muối": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu que": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 58,
+    "ten": "Thịt bò xào bông cải",
+    "loai": "Món mặn",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Thịt bò mềm xào cùng bông cải xanh và tỏi.",
+    "nguyen_lieu": [
+      "thịt bò",
+      "bông cải xanh",
+      "tỏi",
+      "dầu hào",
+      "nước tương",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Thịt bò thái lát mỏng ngang thớ, ướp dầu hào, nước tương và tiêu khoảng 10 phút.",
+      "Bông cải tách nhánh, rửa sạch và chần nhanh rồi để ráo.",
+      "Phi thơm tỏi, xào bò nhanh trên lửa lớn đến vừa đổi màu, gắp ra.",
+      "Cho bông cải vào chảo đảo nóng, nêm nhẹ.",
+      "Cho bò trở lại, đảo nhanh cho hòa vị rồi tắt bếp."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt bò": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "bông cải xanh": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "dầu hào": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "chần",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "bông cải xanh": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "dầu hào": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 59,
+    "ten": "Cà tím nướng mỡ hành",
+    "loai": "Món rau",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Cà tím nướng mềm, rưới mỡ hành và nước mắm chua ngọt.",
+    "nguyen_lieu": [
+      "cà tím",
+      "hành lá",
+      "dầu ăn",
+      "nước mắm",
+      "đường",
+      "chanh",
+      "ớt"
+    ],
+    "cach_nau": [
+      "Cà tím rửa sạch, để nguyên quả và dùng dao khía vài đường nông.",
+      "Nướng cà tím trên bếp hoặc trong lò đến khi vỏ xém và ruột mềm, trở đều.",
+      "Hành lá thái nhỏ, làm nóng dầu rồi rưới lên hành để tạo mỡ hành.",
+      "Pha nước mắm với đường, nước cốt chanh và ớt băm.",
+      "Bóc lớp vỏ cháy, xé cà tím thành dải, rưới mỡ hành và nước mắm."
+    ],
+    "dinh_luong_2_nguoi": {
+      "cà tím": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "hành lá": {
+        "so_luong": 3,
+        "don_vi": "nhánh"
+      },
+      "dầu ăn": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "chanh": {
+        "so_luong": 0.5,
+        "don_vi": "quả"
+      },
+      "ớt": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      }
+    },
+    "cach_che_bien": [
+      "nướng",
+      "làm mỡ hành"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "cà tím": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "hành lá": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều."
+    }
+  },
+  {
+    "id": 60,
+    "ten": "Chả giò tôm thịt",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 45,
+    "do_kho": "Trung bình",
+    "mo_ta": "Chả giò nhân tôm thịt và rau củ, chiên vàng giòn.",
+    "nguyen_lieu": [
+      "bánh tráng cuốn",
+      "thịt heo xay",
+      "tôm",
+      "cà rốt",
+      "khoai môn",
+      "miến",
+      "nấm mèo",
+      "trứng"
+    ],
+    "cach_nau": [
+      "Tôm bóc vỏ, bỏ chỉ lưng và băm nhỏ; cà rốt, khoai môn bào sợi.",
+      "Miến ngâm mềm cắt ngắn; nấm mèo ngâm nở, rửa sạch và băm.",
+      "Trộn thịt, tôm, rau củ, miến, nấm mèo và trứng thành nhân.",
+      "Đặt nhân lên bánh tráng, gấp hai mép và cuốn vừa tay, không cuốn quá chặt.",
+      "Chiên chả giò ở lửa vừa đến vàng giòn, để ráo dầu và dùng nóng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh tráng cuốn": {
+        "so_luong": 10,
+        "don_vi": "miếng"
+      },
+      "thịt heo xay": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "tôm": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "khoai môn": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "miến": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "nấm mèo": {
+        "so_luong": 5,
+        "don_vi": "g khô"
+      },
+      "trứng": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "trộn nhân",
+      "cuốn",
+      "chiên"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh tráng cuốn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "thịt heo xay": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "khoai môn": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "miến": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "nấm mèo": "Cắt bỏ gốc bẩn, lau hoặc rửa nhanh, để ráo; nấm khô cần ngâm nở rồi rửa lại và bỏ phần gốc cứng.",
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến."
+    }
+  },
+  {
+    "id": 61,
+    "ten": "Bánh flan caramel",
+    "loai": "Món tráng miệng",
+    "thoi_gian": 45,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bánh flan mềm mịn, thơm trứng sữa và lớp caramel.",
+    "nguyen_lieu": [
+      "trứng",
+      "sữa tươi",
+      "sữa đặc",
+      "đường",
+      "nước"
+    ],
+    "cach_nau": [
+      "Đun đường với ít nước trên lửa nhỏ đến màu hổ phách, rót một lớp mỏng vào khuôn.",
+      "Đánh trứng nhẹ tay, tránh tạo quá nhiều bọt.",
+      "Trộn sữa tươi với sữa đặc, làm ấm nhẹ rồi rót từ từ vào trứng và khuấy đều.",
+      "Lọc hỗn hợp qua rây, rót vào khuôn caramel và đậy nắp hoặc phủ giấy bạc.",
+      "Hấp cách thủy lửa nhỏ đến khi bánh đông; để nguội rồi làm lạnh trước khi dùng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "trứng": {
+        "so_luong": 3,
+        "don_vi": "quả"
+      },
+      "sữa tươi": {
+        "so_luong": 250,
+        "don_vi": "ml"
+      },
+      "sữa đặc": {
+        "so_luong": 80,
+        "don_vi": "ml"
+      },
+      "đường": {
+        "so_luong": 60,
+        "don_vi": "g"
+      },
+      "nước": {
+        "so_luong": 20,
+        "don_vi": "ml"
+      }
+    },
+    "cach_che_bien": [
+      "nấu caramel",
+      "khuấy",
+      "hấp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "trứng": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "sữa tươi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "sữa đặc": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 62,
+    "ten": "Chè đậu xanh nước cốt dừa",
+    "loai": "Món tráng miệng",
+    "thoi_gian": 45,
+    "do_kho": "Dễ",
+    "mo_ta": "Chè đậu xanh bùi mềm, thơm nước cốt dừa.",
+    "nguyen_lieu": [
+      "đậu xanh cà vỏ",
+      "đường",
+      "nước cốt dừa",
+      "lá dứa",
+      "bột năng",
+      "muối"
+    ],
+    "cach_nau": [
+      "Đậu xanh vo sạch, ngâm nước ấm khoảng 1–2 giờ rồi để ráo.",
+      "Lá dứa rửa sạch, buộc gọn; bột năng hòa với ít nước.",
+      "Nấu đậu xanh với nước và lá dứa đến khi hạt mềm.",
+      "Thêm đường và chút muối, khuấy nhẹ; cho bột năng pha loãng để chè sánh tùy thích.",
+      "Đun nước cốt dừa riêng với chút muối, rưới lên chè khi dùng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đậu xanh cà vỏ": {
+        "so_luong": 150,
+        "don_vi": "g"
+      },
+      "đường": {
+        "so_luong": 80,
+        "don_vi": "g"
+      },
+      "nước cốt dừa": {
+        "so_luong": 150,
+        "don_vi": "ml"
+      },
+      "lá dứa": {
+        "so_luong": 2,
+        "don_vi": "lá"
+      },
+      "bột năng": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "muối": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "nấu",
+      "hòa bột"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đậu xanh cà vỏ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước cốt dừa": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "lá dứa": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "bột năng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 63,
+    "ten": "Sữa chua trái cây",
+    "loai": "Món tráng miệng",
+    "thoi_gian": 10,
+    "do_kho": "Dễ",
+    "mo_ta": "Sữa chua mát lạnh ăn cùng trái cây tươi theo mùa.",
+    "nguyen_lieu": [
+      "sữa chua",
+      "dâu tây",
+      "chuối",
+      "xoài",
+      "mật ong",
+      "granola"
+    ],
+    "cach_nau": [
+      "Dâu tây rửa nhanh dưới vòi nước, bỏ cuống và cắt miếng.",
+      "Chuối bóc vỏ thái lát; xoài gọt vỏ, cắt hạt lựu.",
+      "Cho sữa chua vào tô hoặc ly sạch.",
+      "Xếp trái cây lên trên, thêm mật ong và granola tùy khẩu vị.",
+      "Dùng ngay hoặc làm lạnh ngắn trước khi thưởng thức."
+    ],
+    "dinh_luong_2_nguoi": {
+      "sữa chua": {
+        "so_luong": 2,
+        "don_vi": "hũ"
+      },
+      "dâu tây": {
+        "so_luong": 80,
+        "don_vi": "g"
+      },
+      "chuối": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "xoài": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "mật ong": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "granola": {
+        "so_luong": 20,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "cắt",
+      "trộn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "sữa chua": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dâu tây": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "chuối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "xoài": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "mật ong": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "granola": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 64,
+    "ten": "Salad ức gà",
+    "loai": "Món rau",
+    "thoi_gian": 25,
+    "do_kho": "Dễ",
+    "mo_ta": "Salad ức gà áp chảo với rau xanh và sốt chua nhẹ.",
+    "nguyen_lieu": [
+      "ức gà",
+      "xà lách",
+      "cà chua bi",
+      "dưa leo",
+      "bắp ngọt",
+      "dầu ô liu",
+      "chanh",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Ức gà thấm khô, ướp muối, tiêu và chút dầu ô liu khoảng 10 phút.",
+      "Xà lách rửa sạch, ngâm nước lạnh rồi để thật ráo; cà chua bi bổ đôi.",
+      "Dưa leo thái lát, bắp ngọt luộc chín và để nguội.",
+      "Áp chảo ức gà đến khi chín hoàn toàn, để nghỉ vài phút rồi thái lát.",
+      "Trộn rau với dầu ô liu và nước cốt chanh, xếp gà lên trên."
+    ],
+    "dinh_luong_2_nguoi": {
+      "ức gà": {
+        "so_luong": 200,
+        "don_vi": "g"
+      },
+      "xà lách": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "cà chua bi": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "bắp ngọt": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "dầu ô liu": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "chanh": {
+        "so_luong": 0.5,
+        "don_vi": "quả"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "áp chảo",
+      "trộn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "ức gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "xà lách": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "cà chua bi": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "bắp ngọt": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ô liu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 65,
+    "ten": "Cá hồi áp chảo sốt bơ chanh",
+    "loai": "Món mặn",
+    "thoi_gian": 20,
+    "do_kho": "Trung bình",
+    "mo_ta": "Cá hồi áp chảo vàng mặt, dùng cùng sốt bơ chanh thơm dịu.",
+    "nguyen_lieu": [
+      "phi lê cá hồi",
+      "bơ lạt",
+      "chanh",
+      "tỏi",
+      "mùi tây",
+      "muối",
+      "tiêu"
+    ],
+    "cach_nau": [
+      "Cá hồi kiểm tra xương dăm, thấm khô bề mặt; để cá gần nhiệt độ phòng vài phút.",
+      "Ướp hai mặt cá với muối và tiêu vừa đủ.",
+      "Làm nóng chảo, áp chảo mặt da trước đến khi vàng giòn, sau đó trở mặt còn lại đến độ chín mong muốn.",
+      "Hạ lửa, thêm bơ và tỏi băm, nghiêng chảo rưới bơ thơm lên cá.",
+      "Tắt bếp, thêm nước cốt chanh và mùi tây, dùng ngay."
+    ],
+    "dinh_luong_2_nguoi": {
+      "phi lê cá hồi": {
+        "so_luong": 2,
+        "don_vi": "miếng khoảng 150 g"
+      },
+      "bơ lạt": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "chanh": {
+        "so_luong": 0.5,
+        "don_vi": "quả"
+      },
+      "tỏi": {
+        "so_luong": 1,
+        "don_vi": "tép"
+      },
+      "mùi tây": {
+        "so_luong": 5,
+        "don_vi": "g"
+      },
+      "muối": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "áp chảo",
+      "làm sốt"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "phi lê cá hồi": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "bơ lạt": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "mùi tây": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 66,
+    "ten": "Tôm hấp sả",
+    "loai": "Món mặn",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Tôm hấp sả giữ vị ngọt tự nhiên, chấm muối tiêu chanh.",
+    "nguyen_lieu": [
+      "tôm sú",
+      "sả",
+      "gừng",
+      "lá chanh",
+      "muối",
+      "chanh"
+    ],
+    "cach_nau": [
+      "Tôm cắt râu, rửa sạch và để ráo; không cần bóc vỏ để giữ độ ngọt.",
+      "Sả đập dập, cắt khúc; gừng thái lát; lá chanh rửa sạch.",
+      "Xếp sả, gừng dưới xửng, đặt tôm lên trên và thêm lá chanh.",
+      "Hấp đến khi tôm chuyển màu và thịt vừa chín, tránh hấp quá lâu.",
+      "Dùng nóng với muối tiêu chanh."
+    ],
+    "dinh_luong_2_nguoi": {
+      "tôm sú": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "sả": {
+        "so_luong": 3,
+        "don_vi": "cây"
+      },
+      "gừng": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "lá chanh": {
+        "so_luong": 4,
+        "don_vi": "lá"
+      },
+      "muối": {
+        "so_luong": 0.5,
+        "don_vi": "muỗng cà phê"
+      },
+      "chanh": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      }
+    },
+    "cach_che_bien": [
+      "hấp"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "tôm sú": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "sả": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "lá chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "muối": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "chanh": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 67,
+    "ten": "Mực xào cần tỏi",
+    "loai": "Món mặn",
+    "thoi_gian": 20,
+    "do_kho": "Dễ",
+    "mo_ta": "Mực xào nhanh cùng cần tây, tỏi tây và cà chua.",
+    "nguyen_lieu": [
+      "mực ống",
+      "cần tây",
+      "tỏi tây",
+      "cà chua",
+      "tỏi",
+      "gừng",
+      "nước mắm"
+    ],
+    "cach_nau": [
+      "Mực làm sạch túi mực và nội tạng, rửa nhanh, khứa vảy rồng rồi cắt miếng.",
+      "Cần tây cắt khúc, tỏi tây thái lát, cà chua bổ múi cau; gừng thái sợi.",
+      "Chần mực nhanh với gừng rồi để ráo để giảm mùi tanh.",
+      "Phi thơm tỏi, xào mực trên lửa lớn vừa săn rồi gắp ra.",
+      "Xào cà chua và rau, cho mực trở lại, nêm nước mắm và đảo nhanh."
+    ],
+    "dinh_luong_2_nguoi": {
+      "mực ống": {
+        "so_luong": 300,
+        "don_vi": "g"
+      },
+      "cần tây": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "tỏi tây": {
+        "so_luong": 1,
+        "don_vi": "nhánh"
+      },
+      "cà chua": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "tỏi": {
+        "so_luong": 2,
+        "don_vi": "tép"
+      },
+      "gừng": {
+        "so_luong": 10,
+        "don_vi": "g"
+      },
+      "nước mắm": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      }
+    },
+    "cach_che_bien": [
+      "chần",
+      "xào"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "mực ống": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "cần tây": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "tỏi tây": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "gừng": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước mắm": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 68,
+    "ten": "Thịt bò sốt vang",
+    "loai": "Món mặn",
+    "thoi_gian": 90,
+    "do_kho": "Trung bình",
+    "mo_ta": "Bò sốt vang mềm với cà rốt, khoai tây và hương quế hồi.",
+    "nguyen_lieu": [
+      "thịt bò",
+      "cà rốt",
+      "khoai tây",
+      "cà chua",
+      "rượu vang đỏ",
+      "tỏi",
+      "hành tây",
+      "quế",
+      "hoa hồi"
+    ],
+    "cach_nau": [
+      "Thịt bò cắt khối, thấm khô; cà rốt và khoai tây gọt vỏ cắt miếng.",
+      "Ướp bò với tỏi, muối, tiêu và chút rượu vang khoảng 20 phút.",
+      "Phi thơm hành tây, cho bò vào xào săn; thêm cà chua và vang đỏ.",
+      "Thêm nước, quế và hoa hồi, hầm lửa nhỏ đến khi bò gần mềm.",
+      "Cho cà rốt và khoai tây vào hầm tiếp đến khi chín mềm, nêm lại."
+    ],
+    "dinh_luong_2_nguoi": {
+      "thịt bò": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "cà rốt": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "khoai tây": {
+        "so_luong": 1,
+        "don_vi": "củ"
+      },
+      "cà chua": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "rượu vang đỏ": {
+        "so_luong": 80,
+        "don_vi": "ml"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "hành tây": {
+        "so_luong": 0.5,
+        "don_vi": "củ"
+      },
+      "quế": {
+        "so_luong": 1,
+        "don_vi": "thanh nhỏ"
+      },
+      "hoa hồi": {
+        "so_luong": 2,
+        "don_vi": "cánh"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "xào săn",
+      "hầm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "thịt bò": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "cà rốt": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "khoai tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "cà chua": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "rượu vang đỏ": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hành tây": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "quế": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "hoa hồi": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến."
+    }
+  },
+  {
+    "id": 69,
+    "ten": "Gà nướng mật ong",
+    "loai": "Món mặn",
+    "thoi_gian": 50,
+    "do_kho": "Trung bình",
+    "mo_ta": "Đùi gà nướng mật ong vàng óng, thơm tỏi và tiêu.",
+    "nguyen_lieu": [
+      "đùi gà",
+      "mật ong",
+      "tỏi",
+      "nước tương",
+      "dầu hào",
+      "tiêu",
+      "dầu ăn"
+    ],
+    "cach_nau": [
+      "Đùi gà rửa sạch, thấm khô và khía nhẹ phần thịt dày.",
+      "Trộn mật ong, tỏi băm, nước tương, dầu hào, tiêu và dầu ăn làm sốt ướp.",
+      "Ướp gà ít nhất 30 phút trong ngăn mát.",
+      "Nướng ở nhiệt độ vừa, trở mặt và phết thêm sốt; theo dõi để mật ong không cháy.",
+      "Kiểm tra phần thịt dày nhất đã chín hoàn toàn, để nghỉ vài phút rồi dùng."
+    ],
+    "dinh_luong_2_nguoi": {
+      "đùi gà": {
+        "so_luong": 2,
+        "don_vi": "cái"
+      },
+      "mật ong": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "tỏi": {
+        "so_luong": 3,
+        "don_vi": "tép"
+      },
+      "nước tương": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "dầu hào": {
+        "so_luong": 1,
+        "don_vi": "muỗng canh"
+      },
+      "tiêu": {
+        "so_luong": 0.25,
+        "don_vi": "muỗng cà phê"
+      },
+      "dầu ăn": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      }
+    },
+    "cach_che_bien": [
+      "ướp",
+      "nướng"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "đùi gà": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "mật ong": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tỏi": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "nước tương": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu hào": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "tiêu": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "dầu ăn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 70,
+    "ten": "Bún đậu mắm tôm",
+    "loai": "Món nước",
+    "thoi_gian": 30,
+    "do_kho": "Dễ",
+    "mo_ta": "Mẹt bún đậu với đậu hũ chiên, thịt luộc, rau thơm và mắm tôm.",
+    "nguyen_lieu": [
+      "bún lá",
+      "đậu hũ",
+      "thịt ba chỉ",
+      "mắm tôm",
+      "tắc",
+      "đường",
+      "ớt",
+      "rau kinh giới",
+      "dưa leo"
+    ],
+    "cach_nau": [
+      "Thịt ba chỉ rửa sạch, luộc với chút muối đến khi chín; để nguội rồi thái lát.",
+      "Đậu hũ thấm khô, cắt miếng vuông và chiên vàng các mặt.",
+      "Rau kinh giới nhặt lá, rửa sạch; dưa leo thái lát.",
+      "Pha mắm tôm với đường, nước cốt tắc, ớt và chút dầu nóng, đánh bông.",
+      "Xếp bún, đậu, thịt và rau ra mẹt, dùng ngay."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bún lá": {
+        "so_luong": 400,
+        "don_vi": "g"
+      },
+      "đậu hũ": {
+        "so_luong": 3,
+        "don_vi": "miếng"
+      },
+      "thịt ba chỉ": {
+        "so_luong": 250,
+        "don_vi": "g"
+      },
+      "mắm tôm": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "tắc": {
+        "so_luong": 2,
+        "don_vi": "quả"
+      },
+      "đường": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "ớt": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      },
+      "rau kinh giới": {
+        "so_luong": 30,
+        "don_vi": "g"
+      },
+      "dưa leo": {
+        "so_luong": 1,
+        "don_vi": "quả"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "chiên",
+      "pha mắm"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bún lá": "Kiểm tra và định lượng trước; vo, ngâm hoặc trụng theo hướng dẫn của loại thực phẩm, để ráo trước khi đưa vào món.",
+      "đậu hũ": "Lấy nhẹ khỏi bao bì, để ráo nước; cắt miếng đều. Với món chiên, thấm khô bề mặt để hạn chế bắn dầu.",
+      "thịt ba chỉ": "Rửa nhanh dưới vòi nước sạch nếu cần, thấm khô bằng giấy bếp; loại bỏ phần gân/mỡ thừa và cắt đúng kích thước công thức. Giữ riêng thực phẩm sống, rửa tay và dụng cụ sau khi sơ chế.",
+      "mắm tôm": "Làm sạch phần đầu, vỏ, mang hoặc nội tạng không dùng; rút chỉ lưng/loại xương dăm nếu cần. Rửa nhanh, để ráo và bảo quản lạnh đến khi chế biến.",
+      "tắc": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "ớt": "Bóc lớp vỏ khô, rửa sạch; đập dập, băm, thái lát hoặc để nguyên theo công đoạn nấu để hương thơm tỏa đều.",
+      "rau kinh giới": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "dưa leo": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều."
+    }
+  },
+  {
+    "id": 71,
+    "ten": "Bánh tráng trộn",
+    "loai": "Món ăn vặt",
+    "thoi_gian": 15,
+    "do_kho": "Dễ",
+    "mo_ta": "Bánh tráng trộn chua cay với xoài xanh, trứng cút và rau răm.",
+    "nguyen_lieu": [
+      "bánh tráng",
+      "xoài xanh",
+      "trứng cút",
+      "rau răm",
+      "đậu phộng",
+      "sa tế",
+      "nước tắc",
+      "hành phi"
+    ],
+    "cach_nau": [
+      "Bánh tráng cắt sợi vừa ăn; xoài xanh gọt vỏ và bào sợi.",
+      "Trứng cút luộc chín, bóc vỏ; rau răm nhặt và rửa sạch.",
+      "Pha nước trộn từ nước tắc, sa tế và gia vị vừa khẩu vị.",
+      "Cho bánh tráng, xoài, trứng cút, rau răm vào tô lớn.",
+      "Rưới nước trộn, thêm đậu phộng và hành phi, trộn đều trước khi ăn."
+    ],
+    "dinh_luong_2_nguoi": {
+      "bánh tráng": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "xoài xanh": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "trứng cút": {
+        "so_luong": 6,
+        "don_vi": "quả"
+      },
+      "rau răm": {
+        "so_luong": 15,
+        "don_vi": "g"
+      },
+      "đậu phộng": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "sa tế": {
+        "so_luong": 1,
+        "don_vi": "muỗng cà phê"
+      },
+      "nước tắc": {
+        "so_luong": 2,
+        "don_vi": "muỗng canh"
+      },
+      "hành phi": {
+        "so_luong": 10,
+        "don_vi": "g"
+      }
+    },
+    "cach_che_bien": [
+      "luộc",
+      "bào",
+      "trộn"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "bánh tráng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "xoài xanh": "Rửa sạch trước khi gọt; gọt bỏ phần vỏ không dùng, bỏ hạt/ruột già nếu cần, sau đó cắt miếng hoặc thái sợi đồng đều để chín đều.",
+      "trứng cút": "Kiểm tra vỏ nguyên vẹn, rửa vỏ nếu bẩn và đập riêng ra chén để kiểm tra trước khi trộn hoặc chế biến.",
+      "rau răm": "Nhặt bỏ lá úa và phần già, rửa kỹ từng bẹ/lá dưới nước sạch, để ráo rồi thái hoặc cắt theo hướng dẫn món ăn.",
+      "đậu phộng": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "sa tế": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nước tắc": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hành phi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  },
+  {
+    "id": 72,
+    "ten": "Chè khúc bạch",
+    "loai": "Món tráng miệng",
+    "thoi_gian": 40,
+    "do_kho": "Trung bình",
+    "mo_ta": "Chè khúc bạch mềm mát dùng cùng nhãn, hạnh nhân và nước đường.",
+    "nguyen_lieu": [
+      "kem tươi",
+      "sữa tươi",
+      "gelatin",
+      "đường",
+      "nhãn",
+      "hạnh nhân lát",
+      "lá dứa"
+    ],
+    "cach_nau": [
+      "Ngâm gelatin trong nước lạnh cho nở.",
+      "Đun ấm sữa tươi, kem tươi và đường trên lửa nhỏ, không đun sôi mạnh.",
+      "Tắt bếp, cho gelatin vào khuấy tan, lọc qua rây và đổ khuôn.",
+      "Làm lạnh đến khi đông, cắt khúc vừa ăn; rang hạnh nhân lát.",
+      "Nấu nước đường với lá dứa, để nguội; dùng khúc bạch với nhãn và hạnh nhân."
+    ],
+    "dinh_luong_2_nguoi": {
+      "kem tươi": {
+        "so_luong": 100,
+        "don_vi": "ml"
+      },
+      "sữa tươi": {
+        "so_luong": 200,
+        "don_vi": "ml"
+      },
+      "gelatin": {
+        "so_luong": 8,
+        "don_vi": "g"
+      },
+      "đường": {
+        "so_luong": 50,
+        "don_vi": "g"
+      },
+      "nhãn": {
+        "so_luong": 100,
+        "don_vi": "g"
+      },
+      "hạnh nhân lát": {
+        "so_luong": 20,
+        "don_vi": "g"
+      },
+      "lá dứa": {
+        "so_luong": 1,
+        "don_vi": "lá"
+      }
+    },
+    "cach_che_bien": [
+      "ngâm",
+      "đun",
+      "làm lạnh"
+    ],
+    "khau_phan_goc": 2,
+    "so_che": {
+      "kem tươi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "sữa tươi": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "gelatin": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "đường": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "nhãn": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "hạnh nhân lát": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu.",
+      "lá dứa": "Đong đúng định lượng, kiểm tra chất lượng và chuẩn bị sẵn trong chén riêng trước khi nấu."
+    }
+  }
+]
